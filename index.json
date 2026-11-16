@@ -1,0 +1,2516 @@
+[
+  {
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "url": "https://airbnb.com",
+    "category": "mobility",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "warm",
+      "minimal"
+    ],
+    "signature": "The homepage is rows of full-bleed rounded photo cards under one white search pill with a single raspberry button, so the listings are the hero.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#222222",
+        "role": "text"
+      },
+      {
+        "hex": "#FF385C",
+        "role": "accent"
+      },
+      {
+        "hex": "#DA1249",
+        "role": "accent-deep"
+      },
+      {
+        "hex": "#C1C1C1",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Airbnb Cereal",
+        "role": "display-and-body",
+        "weights": "500-600",
+        "free_alternative": "Figtree (Google Fonts, weight 500)"
+      }
+    ],
+    "radius": "about 16px on photo cards, full pills on search and badges",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "amie",
+    "name": "Amie",
+    "url": "https://amie.so",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "minimal",
+      "calm"
+    ],
+    "signature": "A left-aligned bold headline and a blue button above a huge screenshot of the notes app, then a very long single-column page of feature sections.",
+    "palette": [
+      {
+        "hex": "#FAFAFA",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#11A8FF",
+        "role": "accent"
+      },
+      {
+        "hex": "#5C5C5C",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#FBEBE9",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter",
+        "role": "display",
+        "weights": "600-700",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "12px soft",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "url": "https://anthropic.com",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "editorial",
+      "calm",
+      "serious"
+    ],
+    "signature": "A full-width paragraph set as the headline, with the first sentence in bold sans and the rest in a light serif, above a huge blurred photograph of the Earth's horizon.",
+    "palette": [
+      {
+        "hex": "#FAF9F5",
+        "role": "canvas"
+      },
+      {
+        "hex": "#141413",
+        "role": "text"
+      },
+      {
+        "hex": "#F5F4ED",
+        "role": "nav-pill-fill"
+      },
+      {
+        "hex": "#E8E6DC",
+        "role": "border"
+      },
+      {
+        "hex": "#3D3D3A",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "anthropicSerif",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Newsreader (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "anthropicSans",
+        "role": "lead-sentence-and-ui",
+        "weights": "semibold 600 lead, regular 400 UI",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on navigation, 8px inputs",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "apple-iphone",
+    "name": "Apple iPhone",
+    "url": "https://www.apple.com/iphone/",
+    "category": "consumer-app",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "minimal",
+      "luxurious",
+      "cool"
+    ],
+    "signature": "A left-aligned \"iPhone\" title over a strip of tiny model icons, then a sliding row of pale grey cards, each with the model name top left and two buttons top right.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F5F5F7",
+        "role": "surface"
+      },
+      {
+        "hex": "#1D1D1F",
+        "role": "text"
+      },
+      {
+        "hex": "#0071E3",
+        "role": "accent"
+      },
+      {
+        "hex": "#0066CC",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "SF Pro Display",
+        "role": "display",
+        "weights": "600",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "SF Pro Text",
+        "role": "body",
+        "weights": "400-600",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "980px pills, large rounded cards",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "attio",
+    "name": "Attio",
+    "url": "https://attio.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "cool",
+      "technical"
+    ],
+    "signature": "A tight-tracked 69px headline centred over a mac-window screenshot that starts with an AI prompt box, so a CRM opens like a chat with your pipeline.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#2E3238",
+        "role": "text"
+      },
+      {
+        "hex": "#202124",
+        "role": "dark-button"
+      },
+      {
+        "hex": "#D3D8DF",
+        "role": "border"
+      },
+      {
+        "hex": "#B5BDC9",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "interDisplay",
+        "role": "display",
+        "weights": "medium 500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "regular 400",
+        "free_alternative": "Inter"
+      }
+    ],
+    "radius": "10px buttons and inputs, 20px window frame",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "brex",
+    "name": "Brex",
+    "url": "https://brex.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "serious",
+      "tactile"
+    ],
+    "signature": "A heavy left-aligned headline beside a tilted product still-life of a black card and phone on a pale slab, with thin orange route lines running through it.",
+    "palette": [
+      {
+        "hex": "#F9F9F9",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "header-and-field"
+      },
+      {
+        "hex": "#15191E",
+        "role": "text"
+      },
+      {
+        "hex": "#FF3D00",
+        "role": "accent"
+      },
+      {
+        "hex": "#FF6B18",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter",
+        "role": "display-and-body",
+        "weights": "semibold 600 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 12px email field",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "calendly",
+    "name": "Calendly",
+    "url": "https://calendly.com",
+    "category": "productivity",
+    "theme": "mixed",
+    "mood": [
+      "calm",
+      "friendly",
+      "cool"
+    ],
+    "signature": "A huge rounded gradient panel running from deep blue to pink holds a centred white headline, with a product card tucked into its lower edge.",
+    "palette": [
+      {
+        "hex": "#FCFBF8",
+        "role": "canvas"
+      },
+      {
+        "hex": "#071A31",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#5F6D77",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#0066CC",
+        "role": "link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Calendly Sans",
+        "role": "display",
+        "weights": "500 medium",
+        "free_alternative": "Inter Tight (Google Fonts, weight 500)"
+      },
+      {
+        "family": "Geist",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Geist (Google Fonts)"
+      }
+    ],
+    "radius": "about 40px on the hero panel, 32px on the product card, 12px to 20px on buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "cash-app",
+    "name": "Cash App",
+    "url": "https://cash.app",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "bold",
+      "cool"
+    ],
+    "signature": "A white page almost empty except for a centred phone wrapped in a thick neon green bezel, with the headline and call to action pushed out to opposite sides.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#00E013",
+        "role": "accent"
+      },
+      {
+        "hex": "#5420C2",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Cash Sans",
+        "role": "display-and-body",
+        "weights": "400 regular",
+        "free_alternative": "Inter Tight (Google Fonts)"
+      }
+    ],
+    "radius": "pills on buttons, rounded square logo, phone bezel about 40px",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "craft",
+    "name": "Craft",
+    "url": "https://craft.do",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "warm",
+      "friendly",
+      "editorial"
+    ],
+    "signature": "A rounded sky-blue panel with dithered clouds and torn-paper shapes behind the app window, under a centred serif headline.",
+    "palette": [
+      {
+        "hex": "#FCF9F7",
+        "role": "canvas"
+      },
+      {
+        "hex": "#94CFEC",
+        "role": "sky-hero"
+      },
+      {
+        "hex": "#030302",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "window-and-card"
+      },
+      {
+        "hex": "#FF4500",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Untitled Serif",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Source Serif 4 (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Untitled Sans",
+        "role": "body-and-ui",
+        "weights": "regular 400, medium 500 UI",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "28px hero panel, full pills on nav and buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "url": "https://cursor.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "calm",
+      "editorial",
+      "technical"
+    ],
+    "signature": "Product windows laid on top of an impressionist oil painting, under a modest two-line headline, so an AI coding tool looks like a gallery piece.",
+    "palette": [
+      {
+        "hex": "#F7F7F4",
+        "role": "canvas"
+      },
+      {
+        "hex": "#26251E",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#E6E5E0",
+        "role": "secondary-button"
+      },
+      {
+        "hex": "#EFE6D7",
+        "role": "sand-surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Cursor Gothic",
+        "role": "display-and-ui",
+        "weights": "regular 400",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons, 10px app windows",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "dia",
+    "name": "Dia",
+    "url": "https://www.diabrowser.com",
+    "category": "consumer-app",
+    "theme": "mixed",
+    "mood": [
+      "warm",
+      "editorial",
+      "luxurious",
+      "friendly"
+    ],
+    "signature": "A giant ornamental serif \"DIA\" in white on a blurred saffron field, with the browser window rising over the bottom of the letters.",
+    "palette": [
+      {
+        "hex": "#FFCB30",
+        "role": "accent"
+      },
+      {
+        "hex": "#FBFAF6",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "surface"
+      },
+      {
+        "hex": "#5863EA",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#E1B746",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Exposure VAR",
+        "role": "display",
+        "weights": "variable",
+        "free_alternative": "Instrument Serif on Fontsource or Google Fonts"
+      },
+      {
+        "family": "ABC Oracle",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "ABC Favorit Mono",
+        "role": "mono",
+        "weights": "400",
+        "free_alternative": "JetBrains Mono on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "9px soft, pill nav",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "url": "https://discord.com",
+    "category": "community",
+    "theme": "dark",
+    "mood": [
+      "playful",
+      "loud",
+      "cinematic"
+    ],
+    "signature": "An all-caps heavy headline on a starry indigo night sky beside a 3D scene of a monitor, phone, controller and mascots.",
+    "palette": [
+      {
+        "hex": "#1A2081",
+        "role": "canvas"
+      },
+      {
+        "hex": "#31368E",
+        "role": "surface"
+      },
+      {
+        "hex": "#5865F2",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ABC Ginto Nord",
+        "role": "display",
+        "weights": "800 heavy, all caps",
+        "free_alternative": "Outfit (Google Fonts, weight 800)"
+      },
+      {
+        "family": "gg sans",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Noto Sans (Google Fonts)"
+      }
+    ],
+    "radius": "12px to 16px rounded rectangles on buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "duolingo",
+    "name": "Duolingo",
+    "url": "https://duolingo.com",
+    "category": "education",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "friendly",
+      "loud"
+    ],
+    "signature": "A nearly empty white screen with one illustration of falling characters, two chunky buttons with a darker bottom lip, and a language strip pinned to the floor.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#58CC02",
+        "role": "accent"
+      },
+      {
+        "hex": "#1CB0F6",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#4B4B4B",
+        "role": "text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Duolingo-Sans",
+        "role": "display-and-body",
+        "weights": "700 bold, rounded",
+        "free_alternative": "Nunito (Google Fonts, weight 800)"
+      }
+    ],
+    "radius": "12px to 16px rounded rectangles",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "minimal",
+      "friendly"
+    ],
+    "signature": "A grey tabbed stage under a left-aligned headline, holding a carousel of grainy gradient orbs, so a voice product shows its range as colour and texture instead of waveforms.",
+    "palette": [
+      {
+        "hex": "#FDFCFC",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F5F3F1",
+        "role": "stage-panel"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "raised-pill"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-primary-button"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Waldenburg",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Inter Tight (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "regular 400",
+        "free_alternative": "Inter"
+      }
+    ],
+    "radius": "16px stage panel, full pills on buttons and tabs",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "faire",
+    "name": "Faire",
+    "url": "https://www.faire.com",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "editorial",
+      "friendly"
+    ],
+    "signature": "Light serif headlines over full-width colour bands (plum, olive, lime, peach) that frame photographs of shop owners.",
+    "palette": [
+      {
+        "hex": "#FBF8F6",
+        "role": "canvas"
+      },
+      {
+        "hex": "#333333",
+        "role": "text"
+      },
+      {
+        "hex": "#41252A",
+        "role": "dark-panel"
+      },
+      {
+        "hex": "#595604",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#F1F29F",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#FFD0B6",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Nantes",
+        "role": "display",
+        "weights": "300-400",
+        "free_alternative": "Source Serif 4 on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Graphik",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "4px sharp, pill filters",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "family",
+    "name": "Family",
+    "url": "https://family.co",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "friendly",
+      "warm"
+    ],
+    "signature": "A centred headline on pure white flanked by two big clusters of flat, smiling character illustrations, so a crypto wallet looks like a toy shop.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#171717",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#474645",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#F6F4EF",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Family",
+        "role": "display",
+        "weights": "500 medium",
+        "free_alternative": "Figtree (Google Fonts, weight 500)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter"
+      }
+    ],
+    "radius": "full pills on buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "playful",
+      "technical"
+    ],
+    "signature": "A plain white page where the hero is a small left-aligned headline, a stack of colourful design cards in the middle and one black button at the right.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#F3F3F3",
+        "role": "border"
+      },
+      {
+        "hex": "#874FFF",
+        "role": "logo-mark"
+      },
+      {
+        "hex": "#FF3737",
+        "role": "logo-mark"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "figmaSans",
+        "role": "display",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "figmaMono",
+        "role": "mono",
+        "weights": "400",
+        "free_alternative": "JetBrains Mono on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "8-16px soft",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "flighty",
+    "name": "Flighty",
+    "url": "https://flighty.com",
+    "category": "mobility",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "friendly",
+      "technical"
+    ],
+    "signature": "A black heavy-weight headline over a phone held in a real hand, with notification cards fanning out on each side and fading to white at the edges.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#F7BE00",
+        "role": "accent"
+      },
+      {
+        "hex": "#010A1A",
+        "role": "dark-panel"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "system-ui (SF Pro on Apple devices)",
+        "role": "display-and-body",
+        "weights": "800 heavy for display, 400 for body",
+        "free_alternative": "Inter (Google Fonts, weight 800)"
+      }
+    ],
+    "radius": "full pills on tab bar, 16px on notification cards",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "framer",
+    "name": "Framer",
+    "url": "https://www.framer.com",
+    "category": "devtool",
+    "theme": "dark",
+    "mood": [
+      "cool",
+      "minimal",
+      "technical"
+    ],
+    "signature": "A left-aligned headline above a giant product panel framed in electric blue light, all on a pure black page.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#0099FF",
+        "role": "accent"
+      },
+      {
+        "hex": "#1A1A1A",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "GT Walsheim",
+        "role": "display",
+        "weights": "500-600",
+        "free_alternative": "Inter Tight on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "6-8px soft",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "function-health",
+    "name": "Function Health",
+    "url": "https://functionhealth.com",
+    "category": "health",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "luxurious",
+      "warm"
+    ],
+    "signature": "A full-screen portrait photograph sliced by diagonal glass-like bands, with an italic serif headline in cream set low left.",
+    "palette": [
+      {
+        "hex": "#FEF9EF",
+        "role": "text-on-photo"
+      },
+      {
+        "hex": "#B05A36",
+        "role": "accent"
+      },
+      {
+        "hex": "#2A2B2F",
+        "role": "text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Financier Display",
+        "role": "display",
+        "weights": "400 regular italic",
+        "free_alternative": "Newsreader (Google Fonts, display optical size, italic)"
+      },
+      {
+        "family": "FT Base",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter (Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons and tag, 16px on the nav panel",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "granola",
+    "name": "Granola",
+    "url": "https://granola.ai",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "warm",
+      "minimal"
+    ],
+    "signature": "A four-line serif headline at 110px on a white page, beside an app window laid over a collage of lime, halftone and print textures.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#292929",
+        "role": "text"
+      },
+      {
+        "hex": "#5B6F00",
+        "role": "accent"
+      },
+      {
+        "hex": "#DAD9D4",
+        "role": "border"
+      },
+      {
+        "hex": "#FCFCF8",
+        "role": "text-on-accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Quadrant",
+        "role": "display",
+        "weights": "400 regular serif",
+        "free_alternative": "Newsreader (Google Fonts, display optical size)"
+      },
+      {
+        "family": "Melange",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Instrument Sans (Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons, 16px on the app window",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "headspace",
+    "name": "Headspace",
+    "url": "https://headspace.com",
+    "category": "health",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "playful",
+      "friendly"
+    ],
+    "signature": "A peach-to-pink gradient hero with a smiling orange sun mascot, and a bright blue pill that is the only cold colour on the page.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FF7E1D",
+        "role": "accent"
+      },
+      {
+        "hex": "#0061EF",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#2D2C2B",
+        "role": "text"
+      },
+      {
+        "hex": "#D2D5DE",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Headspace Apercu",
+        "role": "display-and-body",
+        "weights": "500-600",
+        "free_alternative": "DM Sans (Google Fonts, weight 500)"
+      }
+    ],
+    "radius": "full pills on buttons, 8px on the topic cards",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "hungry-tiger",
+    "name": "Hungry Tiger",
+    "url": "https://eathungrytiger.com",
+    "category": "food",
+    "theme": "mixed",
+    "mood": [
+      "bold",
+      "warm",
+      "playful",
+      "loud"
+    ],
+    "signature": "A single headline in saffron caps fills the entire width of a rust-brown, leaf-printed screen while a tilted 3D jar cuts across it.",
+    "palette": [
+      {
+        "hex": "#883814",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FAAE33",
+        "role": "accent"
+      },
+      {
+        "hex": "#EB9F36",
+        "role": "surface"
+      },
+      {
+        "hex": "#281006",
+        "role": "dark-panel"
+      },
+      {
+        "hex": "#CC245B",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Salmond",
+        "role": "display",
+        "weights": "800-900",
+        "free_alternative": "Montserrat on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Salmond",
+        "role": "body",
+        "weights": "500-700",
+        "free_alternative": "Montserrat on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "pills, square photo cards",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "impossible-foods",
+    "name": "Impossible Foods",
+    "url": "https://impossiblefoods.com",
+    "category": "food",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "loud",
+      "playful"
+    ],
+    "signature": "Huge red letters on a deep berry background, with wobbly cut-out food photos floating in the corners and a red pill nav bar.",
+    "palette": [
+      {
+        "hex": "#4F0423",
+        "role": "canvas"
+      },
+      {
+        "hex": "#E10600",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFC7C6",
+        "role": "surface"
+      },
+      {
+        "hex": "#260212",
+        "role": "dark-panel"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Sans-Meat",
+        "role": "display",
+        "weights": "800-900",
+        "free_alternative": "Archivo on Fontsource or Google Fonts (use the width axis for wide and condensed cuts)"
+      },
+      {
+        "family": "Sans-Meat",
+        "role": "body",
+        "weights": "500-700",
+        "free_alternative": "Archivo on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "pills and wavy blobs",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "intercom",
+    "name": "Intercom",
+    "url": "https://intercom.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "bold",
+      "warm"
+    ],
+    "signature": "A three-line light headline that alternates grey and black, ringed by cropped photographs and marked with blue registration squares, so a helpdesk reads like a print layout.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#111111",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#A0A0A0",
+        "role": "dimmed-headline-lines"
+      },
+      {
+        "hex": "#FAF9F6",
+        "role": "warm-section-surface"
+      },
+      {
+        "hex": "#0007CB",
+        "role": "registration-marks"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Saans",
+        "role": "display",
+        "weights": "light 300 headline",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Saans Mono",
+        "role": "mono-accents",
+        "weights": "regular 400",
+        "free_alternative": "JetBrains Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "4px, buttons square-ish",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "linear",
+    "name": "Linear",
+    "url": "https://linear.app",
+    "category": "devtool",
+    "theme": "dark",
+    "mood": [
+      "technical",
+      "minimal",
+      "cool",
+      "serious"
+    ],
+    "signature": "A heavy-weight, two-line headline floating in a black void above a full-width screenshot of the real app, so the page is the product's dark UI continued.",
+    "palette": [
+      {
+        "hex": "#08090A",
+        "role": "canvas"
+      },
+      {
+        "hex": "#141516",
+        "role": "button-surface"
+      },
+      {
+        "hex": "#F7F8F8",
+        "role": "text-strong"
+      },
+      {
+        "hex": "#D0D6E0",
+        "role": "text"
+      },
+      {
+        "hex": "#8A8F98",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#E5E5E6",
+        "role": "primary-button"
+      },
+      {
+        "hex": "#5E6AD2",
+        "role": "accent-icon"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter",
+        "role": "display-and-body",
+        "weights": "medium 500 headline, regular 400 body",
+        "free_alternative": "Inter"
+      },
+      {
+        "family": "Berkeley Mono",
+        "role": "mono",
+        "weights": "regular 400",
+        "free_alternative": "JetBrains Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "12px frame, 8px inner items, full pills on buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "locomotive",
+    "name": "Locomotive",
+    "url": "https://locomotive.ca/en/work",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "editorial",
+      "technical"
+    ],
+    "signature": "The portfolio is a plain two-column text list on white, with project names on the left, industries on the right, and a (+) at the end of each row.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#312DFB",
+        "role": "accent"
+      },
+      {
+        "hex": "#DC143C",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Helvetica Now Display",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Locomotive New",
+        "role": "display",
+        "weights": "300-400",
+        "free_alternative": "Barlow Condensed on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "0px sharp",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "mercury",
+    "name": "Mercury",
+    "url": "https://mercury.com",
+    "category": "fintech",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "calm",
+      "luxurious"
+    ],
+    "signature": "A full-bleed dusk landscape with an empty office desk on a hilltop, under a light-weight centred headline, so business banking is sold as freedom and quiet.",
+    "palette": [
+      {
+        "hex": "#EDEDF3",
+        "role": "text-on-photo"
+      },
+      {
+        "hex": "#5266EB",
+        "role": "accent"
+      },
+      {
+        "hex": "#171721",
+        "role": "dark-panel"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "arcadiaDisplay",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "DM Sans (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Arcadia",
+        "role": "body",
+        "weights": "regular 400",
+        "free_alternative": "DM Sans"
+      }
+    ],
+    "radius": "full pills on buttons and input, 4px containers",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "monday",
+    "name": "monday.com",
+    "url": "https://monday.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "playful",
+      "minimal"
+    ],
+    "signature": "A left-aligned regular-weight Poppins headline with a row of role chips, facing three overlapping cards that mix a real photo with 3D avatar characters.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#222222",
+        "role": "text"
+      },
+      {
+        "hex": "#6161FF",
+        "role": "accent"
+      },
+      {
+        "hex": "#000000",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Poppins",
+        "role": "display",
+        "weights": "400 regular",
+        "free_alternative": "Poppins (Google Fonts)"
+      },
+      {
+        "family": "Figtree",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Figtree (Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons and chips, about 24px on the hero cards",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "monzo",
+    "name": "Monzo",
+    "url": "https://monzo.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "friendly",
+      "bold"
+    ],
+    "signature": "A single full-width rounded photograph of real people mid-hug, with the headline set directly on it and a coral logo as the only brand colour in the chrome.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FF4F40",
+        "role": "accent"
+      },
+      {
+        "hex": "#091723",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#6B747B",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#112231",
+        "role": "dark-panel"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Monzo Sans Display",
+        "role": "display",
+        "weights": "700 bold",
+        "free_alternative": "DM Sans (Google Fonts, weight 700)"
+      },
+      {
+        "family": "Monzo Sans Text",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "DM Sans (Google Fonts)"
+      }
+    ],
+    "radius": "about 40px on the hero photo, full pills on buttons and nav toggle",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "nike",
+    "name": "Nike",
+    "url": "https://www.nike.com",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "loud",
+      "serious"
+    ],
+    "signature": "A heavy condensed headline stacked in the bottom left corner of an edge to edge photograph, repeated for every campaign.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#111111",
+        "role": "text"
+      },
+      {
+        "hex": "#F5F5F5",
+        "role": "surface"
+      },
+      {
+        "hex": "#D73902",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Nike Futura ND",
+        "role": "display",
+        "weights": "800",
+        "free_alternative": "Barlow Condensed on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Helvetica Now Text",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "24-30px pills, square media",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "url": "https://notion.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "playful",
+      "minimal"
+    ],
+    "signature": "A poster-size bold headline with one word set in a pale blue pill, over a product mockup that hand-drawn ink characters climb on.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0D0D0D",
+        "role": "text"
+      },
+      {
+        "hex": "#0075DE",
+        "role": "accent"
+      },
+      {
+        "hex": "#E6F3FE",
+        "role": "accent-tint"
+      },
+      {
+        "hex": "#097FE8",
+        "role": "accent-dot"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Notion Inter",
+        "role": "display-and-body",
+        "weights": "bold 700 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, pill highlight on the headline word",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "pentagram",
+    "name": "Pentagram",
+    "url": "https://www.pentagram.com",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "minimal",
+      "serious"
+    ],
+    "signature": "A tiny serif wordmark and five text links around a single wide project photograph, with a charcoal panel for editorial headings.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#1A1A1A",
+        "role": "text"
+      },
+      {
+        "hex": "#222222",
+        "role": "dark-panel"
+      },
+      {
+        "hex": "#8C8C8C",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Plain",
+        "role": "display",
+        "weights": "400",
+        "free_alternative": "Hanken Grotesk on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Plain",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Hanken Grotesk on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "0px sharp",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "url": "https://perplexity.ai",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "minimal",
+      "friendly",
+      "cool"
+    ],
+    "signature": "The homepage is the product: a left sidebar, one centred question and a rounded input box, with no marketing section at all.",
+    "palette": [
+      {
+        "hex": "#FCFCF9",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F3F3F3",
+        "role": "sidebar-and-chip"
+      },
+      {
+        "hex": "#0B2833",
+        "role": "text-strong"
+      },
+      {
+        "hex": "#475D65",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#D7DBDD",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "pplxSans",
+        "role": "display-and-body",
+        "weights": "regular 400",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "20px input box, 10px cards, pills for chips",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "url": "https://posthog.com",
+    "category": "devtool",
+    "theme": "mixed",
+    "mood": [
+      "playful",
+      "friendly",
+      "technical",
+      "warm"
+    ],
+    "signature": "The whole site is a desktop operating system: a grassy wallpaper, desktop icons down both sides, a menu bar on top and the homepage living in a window.",
+    "palette": [
+      {
+        "hex": "#A4BD7C",
+        "role": "canvas"
+      },
+      {
+        "hex": "#EEEFE9",
+        "role": "surface"
+      },
+      {
+        "hex": "#23251D",
+        "role": "text"
+      },
+      {
+        "hex": "#EB9D2A",
+        "role": "accent"
+      },
+      {
+        "hex": "#AE18D5",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Round Hog",
+        "role": "display",
+        "weights": "500-700",
+        "free_alternative": "Figtree on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Source Code Pro",
+        "role": "mono",
+        "weights": "400-600",
+        "free_alternative": "Source Code Pro on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "3-8px soft",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "ramp",
+    "name": "Ramp",
+    "url": "https://ramp.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "technical",
+      "minimal"
+    ],
+    "signature": "Acid-lime buttons on a dot-grid white page, with a hero panel of floating document fragments wearing design-tool selection handles.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0C0A08",
+        "role": "text"
+      },
+      {
+        "hex": "#E4F222",
+        "role": "accent"
+      },
+      {
+        "hex": "#1A1919",
+        "role": "dark-button-and-top-bar"
+      },
+      {
+        "hex": "#F9FCD7",
+        "role": "accent-tint"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Lausanne",
+        "role": "display-and-body",
+        "weights": "medium 500 headline, regular 400 body",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons and field, 4px selection boxes",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "rauno",
+    "name": "Rauno Freiberg",
+    "url": "https://rauno.me",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "playful",
+      "technical",
+      "tactile"
+    ],
+    "signature": "A white card on pale grey holds a large intro in hanging-indent type, overlapped by a flat yellow circle, with the next card peeking in from the right.",
+    "palette": [
+      {
+        "hex": "#EDEDED",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "surface"
+      },
+      {
+        "hex": "#171717",
+        "role": "text"
+      },
+      {
+        "hex": "#FFFF00",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Unidentified neo-grotesque",
+        "role": "display",
+        "weights": "400-500",
+        "free_alternative": "Inter Tight on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "0px sharp cards",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "raycast",
+    "name": "Raycast",
+    "url": "https://raycast.com",
+    "category": "productivity",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "tactile",
+      "technical",
+      "cool"
+    ],
+    "signature": "Grainy diagonal red slabs fill the hero behind a white headline, with light keycap-style buttons and mono install lines under them.",
+    "palette": [
+      {
+        "hex": "#07080A",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#E5E5E5",
+        "role": "button-fill"
+      },
+      {
+        "hex": "#D63953",
+        "role": "hero-stripe-red"
+      },
+      {
+        "hex": "#FF6363",
+        "role": "logo-red"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter",
+        "role": "display-and-body",
+        "weights": "semibold 600 headline, regular 400 body",
+        "free_alternative": "Inter"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "mono",
+        "weights": "regular 400",
+        "free_alternative": "Geist Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 20px nav and hero frame",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "resend",
+    "name": "Resend",
+    "url": "https://resend.com",
+    "category": "devtool",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "luxurious",
+      "minimal",
+      "technical"
+    ],
+    "signature": "A white-to-grey gradient serif headline on pure black beside a rendered black cube made of metal and mesh facets, lit like a product still.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#141414",
+        "role": "light-streak-grey"
+      },
+      {
+        "hex": "#FEFEFE",
+        "role": "headline-highlight"
+      },
+      {
+        "hex": "#A1A4A5",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Domaine",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Instrument Serif (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter Website",
+        "role": "body-and-ui",
+        "weights": "regular 400, medium 500 buttons",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "12px buttons, full pill on the badge",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "revolut",
+    "name": "Revolut",
+    "url": "https://revolut.com",
+    "category": "fintech",
+    "theme": "mixed",
+    "mood": [
+      "bold",
+      "cool",
+      "minimal"
+    ],
+    "signature": "A full-bleed blue sky photograph with a huge light-weight white headline that runs behind the model's head, and a rounded outline frame standing in for a phone.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "hero-text-and-surface"
+      },
+      {
+        "hex": "#000000",
+        "role": "button"
+      },
+      {
+        "hex": "#1F1F1F",
+        "role": "text"
+      },
+      {
+        "hex": "#F7F7F7",
+        "role": "canvas"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Aeonik Pro",
+        "role": "display",
+        "weights": "400 regular",
+        "free_alternative": "Hanken Grotesk (Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter"
+      }
+    ],
+    "radius": "full pills on buttons, about 40px on the phone outline",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "url": "https://www.shopify.com",
+    "category": "commerce",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "bold",
+      "cool"
+    ],
+    "signature": "A full-bleed video hero with a light-weight white headline, followed by dark green and purple panels instead of a white commerce page.",
+    "palette": [
+      {
+        "hex": "#02090A",
+        "role": "canvas"
+      },
+      {
+        "hex": "#041E18",
+        "role": "dark-panel"
+      },
+      {
+        "hex": "#2C007F",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#E0E0E0",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Shopify-Inter",
+        "role": "display",
+        "weights": "300",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Shopify-Inter",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Inter on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "9999px pills, large rounded panels",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "slush",
+    "name": "Slush",
+    "url": "https://slush.app",
+    "category": "fintech",
+    "theme": "mixed",
+    "mood": [
+      "loud",
+      "playful",
+      "bold",
+      "friendly"
+    ],
+    "signature": "A word the width of half the screen in ultra-condensed black type, wrapped by a 3D blue tube and sticker illustrations on pale blue.",
+    "palette": [
+      {
+        "hex": "#DCEEFF",
+        "role": "surface"
+      },
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#4DA2FF",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFD731",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#FB4903",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#E9CCFF",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Lateral",
+        "role": "display",
+        "weights": "800-900",
+        "free_alternative": "Anton on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Aeonik Pro",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "DM Sans on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "28px panels, pills",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "cool",
+      "serious"
+    ],
+    "signature": "A flowing silk-like gradient ribbon that slices across a two-tone navy headline, framed by hairline column rules, so payments infrastructure feels like fabric and light.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#061B31",
+        "role": "text-strong"
+      },
+      {
+        "hex": "#40668D",
+        "role": "headline-second-tone"
+      },
+      {
+        "hex": "#533AFD",
+        "role": "accent"
+      },
+      {
+        "hex": "#151F3F",
+        "role": "announcement-bar"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Sohne-Var",
+        "role": "display-and-body",
+        "weights": "light 300 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "4px, buttons rectangular",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "superhuman",
+    "name": "Superhuman",
+    "url": "https://superhuman.com",
+    "category": "productivity",
+    "theme": "mixed",
+    "mood": [
+      "cinematic",
+      "bold",
+      "cool"
+    ],
+    "signature": "A full-bleed twilight portrait of a woman looking up, with translucent glass UI cards floating around her head, so productivity software is sold as aspiration.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "header"
+      },
+      {
+        "hex": "#E8E0FF",
+        "role": "announcement-strip"
+      },
+      {
+        "hex": "#1B1938",
+        "role": "primary-button"
+      },
+      {
+        "hex": "#DEDDF5",
+        "role": "button-arrow-tile"
+      },
+      {
+        "hex": "#292827",
+        "role": "text-on-white"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Super Sans",
+        "role": "display-and-body",
+        "weights": "regular 400 headline, medium 500 UI",
+        "free_alternative": "DM Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "12px buttons, 16px glass cards, pill chips",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "sweetgreen",
+    "name": "Sweetgreen",
+    "url": "https://sweetgreen.com",
+    "category": "food",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "editorial",
+      "minimal"
+    ],
+    "signature": "A full-bleed overhead food photograph on a walnut table, with a light-weight headline in cream set low left and a single lime pill.",
+    "palette": [
+      {
+        "hex": "#F4F3E7",
+        "role": "canvas"
+      },
+      {
+        "hex": "#00473C",
+        "role": "text-and-brand"
+      },
+      {
+        "hex": "#E6FF55",
+        "role": "accent"
+      },
+      {
+        "hex": "#D8E5D6",
+        "role": "surface"
+      },
+      {
+        "hex": "#0E150E",
+        "role": "text-on-light"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Sweet Sans",
+        "role": "display",
+        "weights": "300 light",
+        "free_alternative": "Inter Tight (Google Fonts, weight 300)"
+      },
+      {
+        "family": "Sweet Sans Text",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Inter Tight (Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "teenage-engineering",
+    "name": "teenage engineering",
+    "url": "https://teenage.engineering",
+    "category": "hardware",
+    "theme": "dark",
+    "mood": [
+      "playful",
+      "technical",
+      "minimal",
+      "cinematic"
+    ],
+    "signature": "One 3D-rendered product sits in a spotlit pool at the top of a black page, and its shadow runs for thousands of pixels down the whole scroll.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#E5E5E5",
+        "role": "text"
+      },
+      {
+        "hex": "#131313",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Te-20",
+        "role": "display",
+        "weights": "200-300",
+        "free_alternative": "Lexend on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Te-20",
+        "role": "body",
+        "weights": "200-300",
+        "free_alternative": "Lexend on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "0px sharp",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "uber",
+    "name": "Uber",
+    "url": "https://www.uber.com",
+    "category": "mobility",
+    "theme": "dark",
+    "mood": [
+      "minimal",
+      "serious",
+      "friendly"
+    ],
+    "signature": "A black page with pill nav chips and a booking form sitting in the first screen, before any marketing copy.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#292929",
+        "role": "surface"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#58D89C",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Uber Move",
+        "role": "display",
+        "weights": "500-700",
+        "free_alternative": "DM Sans on Fontsource or Google Fonts"
+      },
+      {
+        "family": "Uber Move Text",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "DM Sans on Fontsource or Google Fonts"
+      }
+    ],
+    "radius": "8px cards, pills for controls",
+    "visual_check": "true",
+    "checked": "2026-11-16"
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "technical",
+      "cool"
+    ],
+    "signature": "A single black triangle glowing in an otherwise empty light page, flanked by a tight-tracked left headline and three one-line statements on the right.",
+    "palette": [
+      {
+        "hex": "#FAFAFA",
+        "role": "canvas"
+      },
+      {
+        "hex": "#171717",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#4D4D4D",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#EBEBEB",
+        "role": "border"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "secondary-button"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Geist Sans",
+        "role": "display-and-body",
+        "weights": "medium 500 headline, regular 400 body",
+        "free_alternative": "Geist (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "code",
+        "weights": "regular 400",
+        "free_alternative": "Geist Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons, 6px elsewhere",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "wealthsimple",
+    "name": "Wealthsimple",
+    "url": "https://wealthsimple.com",
+    "category": "fintech",
+    "theme": "dark",
+    "mood": [
+      "luxurious",
+      "cinematic",
+      "serious"
+    ],
+    "signature": "A deep navy hero lit like a product shot, with a giant gold 3D coin and a floating white rounded nav bar.",
+    "palette": [
+      {
+        "hex": "#FCFCFC",
+        "role": "surface"
+      },
+      {
+        "hex": "#1C1B1B",
+        "role": "button-and-text"
+      },
+      {
+        "hex": "#94908D",
+        "role": "border"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "hero-text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "The Future",
+        "role": "display-and-body",
+        "weights": "500 medium",
+        "free_alternative": "Figtree (Google Fonts, weight 500)"
+      },
+      {
+        "family": "Wealthsimple wordmark serif",
+        "role": "logo",
+        "weights": "bold serif",
+        "free_alternative": "Source Serif 4 (Google Fonts, weight 700)"
+      }
+    ],
+    "radius": "full pills on buttons and inputs, 12px on the nav bar",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "wise",
+    "name": "Wise",
+    "url": "https://wise.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "loud",
+      "friendly"
+    ],
+    "signature": "The whole hero is one flat lime field with dark green, heavy, all-caps headlines packed tight, so the brand colour is the layout.",
+    "palette": [
+      {
+        "hex": "#9FE870",
+        "role": "canvas"
+      },
+      {
+        "hex": "#163300",
+        "role": "text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "surface"
+      },
+      {
+        "hex": "#F1F1EE",
+        "role": "surface-muted"
+      },
+      {
+        "hex": "#0E0F0C",
+        "role": "text-on-white"
+      },
+      {
+        "hex": "#37517E",
+        "role": "link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Wise Sans",
+        "role": "display",
+        "weights": "900 heavy, all caps, negative tracking",
+        "free_alternative": "Archivo (Google Fonts, weight 900, width 75)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-600",
+        "free_alternative": "Inter"
+      }
+    ],
+    "radius": "pills on buttons, about 40px on the calculator card, 12px on inner panels",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "wispr-flow",
+    "name": "Wispr Flow",
+    "url": "https://wisprflow.ai",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "warm",
+      "playful"
+    ],
+    "signature": "A literary serif headline with an italic second line on pale butter paper, while transcribed speech loops across the page along curved paths.",
+    "palette": [
+      {
+        "hex": "#FFFFEB",
+        "role": "canvas"
+      },
+      {
+        "hex": "#1A1A1A",
+        "role": "text"
+      },
+      {
+        "hex": "#F0D7FF",
+        "role": "accent"
+      },
+      {
+        "hex": "#E4E4D0",
+        "role": "surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "EB Garamond",
+        "role": "display",
+        "weights": "400 regular with italic",
+        "free_alternative": "EB Garamond (Google Fonts)"
+      },
+      {
+        "family": "Figtree",
+        "role": "body",
+        "weights": "400-600",
+        "free_alternative": "Figtree (Google Fonts)"
+      }
+    ],
+    "radius": "full pills on status chips, 8px on buttons, 16px on nav panel",
+    "checked": "2026-11-16",
+    "visual_check": "true"
+  }
+]
