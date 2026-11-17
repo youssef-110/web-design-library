@@ -838,6 +838,72 @@
     "visual_check": "true"
   },
   {
+    "slug": "deepecho-reel",
+    "name": "DeepEcho Reel",
+    "url": "https://deepecho-directions.vercel.app/option-e-reel.html",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "cinematic",
+      "technical"
+    ],
+    "signature": "A small product film sits in the centre of a white page and grows to full width as you scroll, cycling through flat motion-graphic scenes, one colour field per product, while the headline waits in the bottom-left corner.",
+    "palette": [
+      {
+        "hex": "#FDFDFC",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0C0C0D",
+        "role": "text"
+      },
+      {
+        "hex": "#F2F2EF",
+        "role": "surface"
+      },
+      {
+        "hex": "#FFD43B",
+        "role": "transcription field"
+      },
+      {
+        "hex": "#3D5AFE",
+        "role": "translation field"
+      },
+      {
+        "hex": "#B5EF5A",
+        "role": "live field"
+      },
+      {
+        "hex": "#FF8A5B",
+        "role": "voice field"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Host Grotesk",
+        "role": "display",
+        "weights": "500 at -0.04em, 800 for the wordmark",
+        "free_alternative": "Host Grotesk (Google Fonts)"
+      },
+      {
+        "family": "Host Grotesk",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "same"
+      },
+      {
+        "family": "DM Mono",
+        "role": "labels",
+        "weights": "500, 12px uppercase at 0.04em, nav and buttons only",
+        "free_alternative": "DM Mono (Google Fonts)"
+      }
+    ],
+    "radius": "28px on the film, 16px on tiles and panels, pills on buttons and the nav group",
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "dia",
     "name": "Dia",
     "url": "https://www.diabrowser.com",

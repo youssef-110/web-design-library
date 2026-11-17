@@ -15,6 +15,7 @@ All paths are relative to this file's folder.
 | `styles/` | One file per site: colour, type, layout, motion, techniques to borrow |
 | `PATTERNS.md` | What the strong references share |
 | `rules/` | The rule files, one per topic, each rule with an ID |
+| `recipes/` | Build write-ups for techniques proven on a shipped page, with working code and the pitfalls found |
 | `CHECKLIST.md` | The pre-ship check and the report format |
 | `scripts/slop-scan.mjs` | A scanner for the patterns in `rules/anti-slop.md` |
 
@@ -32,7 +33,7 @@ Follow the steps in order. Steps 1 to 4 take a few minutes and decide most of th
    - Type: display face, body face, and the one move that is not a default.
 
    Check the four lines against `rules/anti-slop.md`. Three or more matches means a new plan. PRO17 to PRO23.
-5. **Build.** Load the rule files for the task from the table below. Define tokens first, then build every section, state and breakpoint with real content. PRO30 to PRO32.
+5. **Build.** Load the rule files for the task from the table below. If a chosen reference links a recipe in `recipes/`, read it before writing that part: it carries the working code and the traps already hit. Define tokens first, then build every section, state and breakpoint with real content. PRO30 to PRO32.
 6. **Verify.** Open the result in a browser and run `CHECKLIST.md` from top to bottom, including `node scripts/slop-scan.mjs <files or folders>`. Fix what fails, then write the report in the format at the end of the checklist. PRO33 to PRO39.
 
 ## Which rules to load
