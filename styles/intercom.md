@@ -27,7 +27,7 @@ visual_check: true
 White hero, black (#111111) buttons and text, and a middle grey (#A0A0A0) used for two of the three headline lines. Below the hero a warm off-white section (#FAF9F6) begins. Four small solid blue squares (#0007CB) mark the corners of the hero like print registration marks. The photographs add colour: teal and yellow balloons, an orange dusk sky with birds, a warm close-up of an eye, and grey shadows on tiles.
 
 ## Type
-The headline is about 72px in a light weight, on three centred lines: "A complete system for" in grey, "AI and human" in black, "customer service" in grey. The paragraph below is set in a serif at about 17px, centred, which is an unexpected switch from the sans headline. Section headings further down repeat the grey-then-black pattern ("Two products," in grey, "one seamless experience" in black).
+The headline is about 72px in a light weight, on three centred lines: "A complete system for" in grey, "AI and human" in black, "customer service" in grey. The paragraph below is set in a serif at about 17px, centred, which is an unexpected switch from the sans headline. Section headings further down repeat the grey-then-black pattern (first phrase in grey, second in black).
 
 ## Layout and rhythm
 A 34px announcement bar with marbled art at both ends sits above a header (logo left, nav, then Log in, Contact sales, View demo, a black Start free trial and an outlined Fin AI Agent button). The hero is symmetric: headline and paragraph centred, two buttons (black Start free trial, outlined View demo), a check-mark line about the trial, and photographs hugging the left and right edges, cropped at different sizes and offsets. The next band holds two product tabs and a screenshot on a tan, shadowed background.

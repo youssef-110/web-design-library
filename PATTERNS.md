@@ -68,7 +68,7 @@ If your plan or your result matches three or more of these, change the plan.
 - Title Case Headings.
 
 **Copy**
-- Seamless, effortless, powerful, supercharge, unlock, reimagine.
+- Seamless, effortless, powerful, supercharge, unlock, reimagine. <!-- slop-ok -->
 - "Not just X. It's Y." Three-beat lists. Em dashes everywhere.
 - Invented testimonials, logos and round numbers.
 

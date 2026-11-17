@@ -1,6 +1,8 @@
 # Using this library
 
-Instructions for an agent that is about to design or redesign a web page. Follow them in order. They take a few minutes and they change the result.
+How to pick and apply references, for an agent that is about to design or redesign a web page. Follow the steps in order. They take a few minutes and they change the result.
+
+This file covers the references. The full workflow, from brief to verified build, is in [`SKILL.md`](SKILL.md); the craft rules are in [`rules/`](rules) and the pre-ship check is [`CHECKLIST.md`](CHECKLIST.md).
 
 ## 1. Say what you are making
 

@@ -1,5 +1,61 @@
 [
   {
+    "slug": "aesop",
+    "name": "Aesop",
+    "url": "https://aesop.com",
+    "category": "commerce",
+    "theme": "mixed",
+    "mood": [
+      "calm",
+      "luxurious",
+      "editorial"
+    ],
+    "signature": "A full-bleed, desaturated close-up of the amber-and-black packaging with a centred light serif headline and an outlined rectangular button, under a centred white serif wordmark.",
+    "palette": [
+      {
+        "hex": "#FFFEF2",
+        "role": "canvas"
+      },
+      {
+        "hex": "#333333",
+        "role": "text-and-announcement-bar"
+      },
+      {
+        "hex": "#D6D5CC",
+        "role": "border"
+      },
+      {
+        "hex": "#CA432F",
+        "role": "accent"
+      },
+      {
+        "hex": "#FF816B",
+        "role": "accent-2"
+      },
+      {
+        "hex": "#FFD2D2",
+        "role": "soft-tint"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Suisse Intl",
+        "role": "body-and-nav",
+        "weights": "regular 400, medium 500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Light editorial serif",
+        "role": "display",
+        "weights": "light 300",
+        "free_alternative": "Cormorant (Fontsource / Google Fonts, weight 400)"
+      }
+    ],
+    "radius": "0px, sharp rectangles",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "airbnb",
     "name": "Airbnb",
     "url": "https://airbnb.com",
@@ -204,6 +260,52 @@
     "checked": "2026-11-16"
   },
   {
+    "slug": "are-na",
+    "name": "Are.na",
+    "url": "https://are.na",
+    "category": "community",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "calm",
+      "editorial"
+    ],
+    "signature": "A plain white page that opens with a lettered list (a, b, c) at 24px, where the third item is an empty plus button inviting the visitor to complete the definition.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#333333",
+        "role": "text"
+      },
+      {
+        "hex": "#F7F7F7",
+        "role": "surface"
+      },
+      {
+        "hex": "#DEDEDE",
+        "role": "border"
+      },
+      {
+        "hex": "#00075F",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Areal",
+        "role": "display-and-body",
+        "weights": "regular 400, bold 700 for emphasis",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "3px on buttons and inputs",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "attio",
     "name": "Attio",
     "url": "https://attio.com",
@@ -256,6 +358,104 @@
     "visual_check": "true"
   },
   {
+    "slug": "basecamp",
+    "name": "Basecamp",
+    "url": "https://basecamp.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "bold",
+      "warm"
+    ],
+    "signature": "A two-line heavy tightly spaced headline, with hand-lettered marginalia and arrows pointing at oversized screenshots that run off both edges of the page.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F5F9FF",
+        "role": "hero-panel"
+      },
+      {
+        "hex": "#29353C",
+        "role": "text"
+      },
+      {
+        "hex": "#006AD2",
+        "role": "accent"
+      },
+      {
+        "hex": "#146DC7",
+        "role": "link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Graphik",
+        "role": "display-and-body",
+        "weights": "bold 700 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts, weight 800 for the headline)"
+      },
+      {
+        "family": "Hand-lettered script",
+        "role": "annotation",
+        "weights": "regular 400",
+        "free_alternative": "Caveat (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0px buttons, 2px on screenshots",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "bear",
+    "name": "Bear",
+    "url": "https://bear.app",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "friendly",
+      "warm"
+    ],
+    "signature": "A white page where the app screenshot is cropped with its own dark sidebar, a hand-drawn blue squiggle underlines the active platform tab, and the only colour is a soft Bear-red.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#444444",
+        "role": "text"
+      },
+      {
+        "hex": "#DD4C4F",
+        "role": "accent"
+      },
+      {
+        "hex": "#884AA8",
+        "role": "accent-2-purple"
+      },
+      {
+        "hex": "#2E3136",
+        "role": "app-sidebar-dark"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Bear Sans",
+        "role": "display-and-body",
+        "weights": "regular 400 body, medium 500 titles",
+        "free_alternative": "Nunito Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 16px app window",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "brex",
     "name": "Brex",
     "url": "https://brex.com",
@@ -299,6 +499,58 @@
     ],
     "radius": "8px buttons, 12px email field",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "cal",
+    "name": "Cal.com",
+    "url": "https://cal.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "bold",
+      "minimal"
+    ],
+    "signature": "A heavy rounded display headline with live inline widgets, a photo tile, a clock reading NYC and a Booked chip, sitting where words would go, above a fake Safari window running the product.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#242424",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#E5E7EB",
+        "role": "border"
+      },
+      {
+        "hex": "#F7F7F7",
+        "role": "nav-surface"
+      },
+      {
+        "hex": "#D15727",
+        "role": "booked-orange"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Cal Sans",
+        "role": "display",
+        "weights": "semibold 600",
+        "free_alternative": "Cal Sans (Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "20px primary button, 12px secondary buttons, 8px chips, rounded nav bar",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -389,6 +641,104 @@
     ],
     "radius": "pills on buttons, rounded square logo, phone bezel about 40px",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "clerk",
+    "name": "Clerk",
+    "url": "https://clerk.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "technical",
+      "cool"
+    ],
+    "signature": "The hero is the product itself, a live sign-up form card with its neighbours faded out on either side, sitting under a heavy left-aligned headline.",
+    "palette": [
+      {
+        "hex": "#F7F7F8",
+        "role": "canvas"
+      },
+      {
+        "hex": "#131316",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#747686",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#2F3037",
+        "role": "dark-border"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "card-surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Suisse Intl",
+        "role": "display-and-body",
+        "weights": "bold 700 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6px buttons, 12px cards, pill nav bar",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "collins",
+    "name": "COLLINS",
+    "url": "https://wearecollins.com",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "editorial",
+      "luxurious"
+    ],
+    "signature": "One centred serif line, \"Rewrite your worth.\", floating in a huge field of warm off-white, with a dark rounded media panel rising from the bottom edge.",
+    "palette": [
+      {
+        "hex": "#F8F8F7",
+        "role": "canvas"
+      },
+      {
+        "hex": "#140700",
+        "role": "text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "button-surface"
+      },
+      {
+        "hex": "#D0D0C8",
+        "role": "input-text"
+      },
+      {
+        "hex": "#08080A",
+        "role": "dark-panel"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "COLLINS Portrait Text",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "EB Garamond (Fontsource / Google Fonts, weight 400)"
+      },
+      {
+        "family": "COLLINS Graphik",
+        "role": "body-and-ui",
+        "weights": "regular 400, medium 500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "about 16px on the media panel, full pills on buttons",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -979,6 +1329,62 @@
     "visual_check": "true"
   },
   {
+    "slug": "github",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "technical",
+      "playful"
+    ],
+    "signature": "A centred two-line headline above a pixel-grid field, with a rainbow hairline that changes colour every column and a pink octocat peeking over it.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-sign-up-button"
+      },
+      {
+        "hex": "#08872B",
+        "role": "accent-primary-button"
+      },
+      {
+        "hex": "#F0F0F0",
+        "role": "secondary-button-surface"
+      },
+      {
+        "hex": "#D2D9D4",
+        "role": "border"
+      },
+      {
+        "hex": "#8534F3",
+        "role": "accent-2-links"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Mona Sans",
+        "role": "display-and-body",
+        "weights": "regular 400 headline, medium 500 buttons",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Mona Sans Mono",
+        "role": "monospace",
+        "weights": "400",
+        "free_alternative": "JetBrains Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6px buttons, 8px inputs, pill announcement chip",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "granola",
     "name": "Granola",
     "url": "https://granola.ai",
@@ -1031,6 +1437,56 @@
     "visual_check": "true"
   },
   {
+    "slug": "gumroad",
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "bold",
+      "friendly"
+    ],
+    "signature": "Floating pink coins stamped with a black G, tilted at different angles around a huge \"Go from 0 to $1\" headline on warm off-white.",
+    "palette": [
+      {
+        "hex": "#F4F4F0",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#FF90E8",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "card"
+      },
+      {
+        "hex": "#242423",
+        "role": "border"
+      },
+      {
+        "hex": "#625BF6",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ABC Favorit",
+        "role": "display-and-body",
+        "weights": "regular 400",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0px buttons and search, pill nav tag, about 20px on cards",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "headspace",
     "name": "Headspace",
     "url": "https://headspace.com",
@@ -1074,6 +1530,58 @@
     ],
     "radius": "full pills on buttons, 8px on the topic cards",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "community",
+    "theme": "mixed",
+    "mood": [
+      "friendly",
+      "technical",
+      "serious"
+    ],
+    "signature": "A big navy rounded panel holding a 3D-tilted, cropped model browser that fans out to the right, with a yellow hugging emoji as its only mascot.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0B0F19",
+        "role": "dark-hero-panel"
+      },
+      {
+        "hex": "#101828",
+        "role": "text-strong-and-button"
+      },
+      {
+        "hex": "#FFD21E",
+        "role": "brand-yellow"
+      },
+      {
+        "hex": "#E5E7EB",
+        "role": "border-and-secondary-button"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Source Sans Pro",
+        "role": "display-and-body",
+        "weights": "semibold 600 headline, regular 400 body",
+        "free_alternative": "Source Sans 3 (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "IBM Plex Mono",
+        "role": "model-names",
+        "weights": "400",
+        "free_alternative": "IBM Plex Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "pill Sign Up button, 8px chips, 24px hero panel",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -1230,6 +1738,170 @@
     "visual_check": "true"
   },
   {
+    "slug": "klarna",
+    "name": "Klarna",
+    "url": "https://klarna.com",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "friendly",
+      "minimal"
+    ],
+    "signature": "A very heavy, tightly tracked condensed headline sitting on white beside a pale grey rounded product panel, with a pink QR sticker as the only brand colour.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0B051D",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#94939E",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#F1F1F1",
+        "role": "hero-panel"
+      },
+      {
+        "hex": "#FFA8CD",
+        "role": "accent"
+      },
+      {
+        "hex": "#2C2242",
+        "role": "link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Klarna Title",
+        "role": "display",
+        "weights": "heavy 800",
+        "free_alternative": "Archivo (Fontsource / Google Fonts, weight 800)"
+      },
+      {
+        "family": "Klarna Text",
+        "role": "body",
+        "weights": "regular 400, medium 500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "pills on buttons and search, about 24px on the hero panel, pink sticker about 40px",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "koto",
+    "name": "Koto",
+    "url": "https://koto.studio",
+    "category": "studio",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "technical",
+      "cinematic"
+    ],
+    "signature": "A pure black screen with a smiling yellow wordmark, tiny uppercase monospace nav and a two-tone condensed statement pinned at the bottom left, with a live UTC clock top right.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#060606",
+        "role": "canvas-token"
+      },
+      {
+        "hex": "#FFE800",
+        "role": "accent"
+      },
+      {
+        "hex": "#B4B4B4",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#1F1F1F",
+        "role": "button-surface"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "GT Kotoheim Condensed",
+        "role": "display",
+        "weights": "light 300 to regular 400",
+        "free_alternative": "Barlow Condensed (Fontsource / Google Fonts, weight 300)"
+      },
+      {
+        "family": "GT Kotoheim Mono",
+        "role": "ui",
+        "weights": "regular 400, uppercase",
+        "free_alternative": "JetBrains Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0px, plus a circular pause control",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "letterboxd",
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com",
+    "category": "community",
+    "theme": "dark",
+    "mood": [
+      "warm",
+      "editorial",
+      "friendly"
+    ],
+    "signature": "A bold serif three-line manifesto centred under a vignetted film still, over a dark slate page and a single green call to action.",
+    "palette": [
+      {
+        "hex": "#14181C",
+        "role": "canvas"
+      },
+      {
+        "hex": "#DDEEFF",
+        "role": "text"
+      },
+      {
+        "hex": "#667788",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#556677",
+        "role": "surface-control"
+      },
+      {
+        "hex": "#00AC1C",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Tiempos Headline",
+        "role": "display",
+        "weights": "bold 700",
+        "free_alternative": "Source Serif 4 (Fontsource / Google Fonts, weight 700)"
+      },
+      {
+        "family": "Graphik",
+        "role": "body-and-nav",
+        "weights": "regular 400, medium 500, uppercase for nav",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "3 to 4px on buttons and posters, pill search field",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "linear",
     "name": "Linear",
     "url": "https://linear.app",
@@ -1339,6 +2011,112 @@
     "checked": "2026-11-16"
   },
   {
+    "slug": "lovable",
+    "name": "Lovable",
+    "url": "https://lovable.dev",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "friendly",
+      "bold"
+    ],
+    "signature": "A blue-to-hot-pink-to-red gradient that rises from the bottom like a sunrise and surrounds a single white prompt box on a cream page.",
+    "palette": [
+      {
+        "hex": "#FCFBF8",
+        "role": "canvas"
+      },
+      {
+        "hex": "#1C1C1C",
+        "role": "text"
+      },
+      {
+        "hex": "#1D1D1D",
+        "role": "button-black"
+      },
+      {
+        "hex": "#5185FE",
+        "role": "gradient-blue"
+      },
+      {
+        "hex": "#FD84E5",
+        "role": "gradient-pink"
+      },
+      {
+        "hex": "#FE364B",
+        "role": "gradient-red"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Camera Plain",
+        "role": "display-and-body",
+        "weights": "bold 700 headline, regular 400 body",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills for buttons and nav, about 24px prompt box",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "mailchimp",
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com",
+    "category": "productivity",
+    "theme": "mixed",
+    "mood": [
+      "warm",
+      "bold",
+      "friendly"
+    ],
+    "signature": "A warm serif headline whose final phrase is set in yellow italic, over a darkened lifestyle photograph, topped by a pill button.",
+    "palette": [
+      {
+        "hex": "#FFE01B",
+        "role": "accent"
+      },
+      {
+        "hex": "#231E15",
+        "role": "text-and-announcement-bar"
+      },
+      {
+        "hex": "#39352C",
+        "role": "dark-panel"
+      },
+      {
+        "hex": "#F5F5F5",
+        "role": "surface"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#692340",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Means Web",
+        "role": "display",
+        "weights": "medium 500, with italic",
+        "free_alternative": "Fraunces (Fontsource / Google Fonts, weight 500)"
+      },
+      {
+        "family": "Tally",
+        "role": "body-and-ui",
+        "weights": "regular 400, medium 500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons, about 24px on cards",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "mercury",
     "name": "Mercury",
     "url": "https://mercury.com",
@@ -1380,6 +2158,68 @@
     ],
     "radius": "full pills on buttons and input, 4px containers",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "mistral",
+    "name": "Mistral",
+    "url": "https://mistral.ai",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "technical",
+      "bold"
+    ],
+    "signature": "A pixel-art game scene built in the page margins, with stacked yellow and orange blocks, a pixel cat and flags, framing a plain black headline.",
+    "palette": [
+      {
+        "hex": "#FBFBF8",
+        "role": "canvas"
+      },
+      {
+        "hex": "#18181B",
+        "role": "text"
+      },
+      {
+        "hex": "#09090B",
+        "role": "button-black"
+      },
+      {
+        "hex": "#FFAF01",
+        "role": "gold-block"
+      },
+      {
+        "hex": "#FF5229",
+        "role": "orange-block"
+      },
+      {
+        "hex": "#C4001D",
+        "role": "deep-red-logo"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ALT Mistral",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Space Mono",
+        "role": "monospace-labels",
+        "weights": "400",
+        "free_alternative": "Space Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0 on layout cells, 6px buttons",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -1483,6 +2323,156 @@
     "visual_check": "true"
   },
   {
+    "slug": "mubi",
+    "name": "MUBI",
+    "url": "https://mubi.com",
+    "category": "consumer-app",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "serious",
+      "minimal"
+    ],
+    "signature": "A near-black film still with a one-line all-caps headline and a hard-edged email field fused to a navy Get Started button.",
+    "palette": [
+      {
+        "hex": "#0D0D0F",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#001489",
+        "role": "button"
+      },
+      {
+        "hex": "#001AAF",
+        "role": "primary-token"
+      },
+      {
+        "hex": "#FFC000",
+        "role": "accent-token"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Riforma",
+        "role": "display-and-body",
+        "weights": "medium 500 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts, weight 500)"
+      }
+    ],
+    "radius": "0px, square field and button",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "mymind",
+    "name": "mymind",
+    "url": "https://mymind.com",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "warm",
+      "luxurious"
+    ],
+    "signature": "A huge tight-set serif headline inside a white circle that is ringed by an orange-to-pink-to-blue gradient halo, above a masonry board of saved images and quotes.",
+    "palette": [
+      {
+        "hex": "#F9FAFC",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#FF5924",
+        "role": "accent"
+      },
+      {
+        "hex": "#DDE9D3",
+        "role": "secondary-soft-green"
+      },
+      {
+        "hex": "#E2E2E2",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Display serif (high-contrast, tight tracking)",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "Cormorant Garamond (Fontsource / Google Fonts, weight 500)"
+      },
+      {
+        "family": "Nunito-style rounded sans",
+        "role": "body",
+        "weights": "400-600",
+        "free_alternative": "Nunito (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "pill buttons, 12px secondary buttons, 20px large cards",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "n26",
+    "name": "N26",
+    "url": "https://n26.com",
+    "category": "fintech",
+    "theme": "mixed",
+    "mood": [
+      "calm",
+      "warm",
+      "cinematic"
+    ],
+    "signature": "A full-bleed, dusk-lit lifestyle photograph with a centred white headline and a single white pill, sitting under a warm cream nav bar.",
+    "palette": [
+      {
+        "hex": "#FAF8F5",
+        "role": "canvas"
+      },
+      {
+        "hex": "#EDE7DF",
+        "role": "surface"
+      },
+      {
+        "hex": "#1B1B1B",
+        "role": "text"
+      },
+      {
+        "hex": "#003B39",
+        "role": "button-and-dark"
+      },
+      {
+        "hex": "#088177",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "N26-Extended",
+        "role": "display",
+        "weights": "medium 500",
+        "free_alternative": "Manrope (Fontsource / Google Fonts, weight 600)"
+      },
+      {
+        "family": "N26",
+        "role": "body",
+        "weights": "regular 400, medium 500",
+        "free_alternative": "Manrope (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on every button, about 8px on the QR card",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "nike",
     "name": "Nike",
     "url": "https://www.nike.com",
@@ -1531,6 +2521,64 @@
     "checked": "2026-11-16"
   },
   {
+    "slug": "nothing",
+    "name": "Nothing",
+    "url": "https://nothing.tech",
+    "category": "hardware",
+    "theme": "light",
+    "mood": [
+      "technical",
+      "playful",
+      "minimal"
+    ],
+    "signature": "Dot-matrix and typewriter-style type paired with translucent products in a monochrome grey world, where one yellow rectangle is the only saturated mark.",
+    "palette": [
+      {
+        "hex": "#F4F4F4",
+        "role": "canvas"
+      },
+      {
+        "hex": "#040404",
+        "role": "text"
+      },
+      {
+        "hex": "#DFDFDF",
+        "role": "modal-surface"
+      },
+      {
+        "hex": "#FFC700",
+        "role": "accent"
+      },
+      {
+        "hex": "#868686",
+        "role": "text-muted"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "NType82",
+        "role": "display",
+        "weights": "regular 400",
+        "free_alternative": "IBM Plex Mono (Fontsource / Google Fonts, weight 400)"
+      },
+      {
+        "family": "Ndot",
+        "role": "accent-display",
+        "weights": "dot-matrix",
+        "free_alternative": "Doto (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "ui",
+        "weights": "regular 400, uppercase",
+        "free_alternative": "Geist Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0px, hard rectangles",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "notion",
     "name": "Notion",
     "url": "https://notion.com",
@@ -1574,6 +2622,202 @@
     ],
     "radius": "8px buttons, pill highlight on the headline word",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "oatly",
+    "name": "Oatly",
+    "url": "https://oatly.com",
+    "category": "food",
+    "theme": "light",
+    "mood": [
+      "loud",
+      "playful",
+      "tactile"
+    ],
+    "signature": "Enormous hand-cut white capital letters stacked down a grainy photo, inside a ruled window frame on graph-paper cream.",
+    "palette": [
+      {
+        "hex": "#FFFEF9",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "surface"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-border"
+      },
+      {
+        "hex": "#F8C8D8",
+        "role": "accent-tag"
+      },
+      {
+        "hex": "#E43E39",
+        "role": "accent-link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Custom hand-cut display caps",
+        "role": "display",
+        "weights": "heavy 900",
+        "free_alternative": "Anton (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Monospace UI face",
+        "role": "ui",
+        "weights": "regular 400, uppercase",
+        "free_alternative": "DM Mono (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Margo Pro",
+        "role": "body",
+        "weights": "regular 400",
+        "free_alternative": "Figtree (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "0px, square corners and 1px black rules",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "category": "productivity",
+    "theme": "dark",
+    "mood": [
+      "calm",
+      "technical",
+      "minimal"
+    ],
+    "signature": "A bold left-aligned two-line headline in near-black, and below it a real note-taking window with a graph view and a phone overlapping its corner.",
+    "palette": [
+      {
+        "hex": "#0F0F0F",
+        "role": "canvas"
+      },
+      {
+        "hex": "#EEEEEE",
+        "role": "text"
+      },
+      {
+        "hex": "#BCBCBC",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#7C3AED",
+        "role": "accent-button"
+      },
+      {
+        "hex": "#A88BFA",
+        "role": "accent-light-links-and-logo"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ui-sans-serif (system UI sans)",
+        "role": "display-and-body",
+        "weights": "bold 700 headline, regular 400 body",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 8-10px app window",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "url": "https://openai.com",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "calm",
+      "serious"
+    ],
+    "signature": "The homepage opens on a chat box, not a headline: a single centred question, a rounded input and five pill shortcuts floating in white space, with a cinematic space-dark story card below the fold.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#666666",
+        "role": "text-muted"
+      },
+      {
+        "hex": "#E0E0E0",
+        "role": "border"
+      },
+      {
+        "hex": "#C9D1D9",
+        "role": "secondary-grey"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "OpenAI Sans",
+        "role": "display-and-body",
+        "weights": "medium 500 headings, regular 400 body",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills for buttons, chips and nav actions, 20px or so for the prompt box",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "patagonia",
+    "name": "Patagonia",
+    "url": "https://patagonia.com",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "editorial",
+      "serious"
+    ],
+    "signature": "A wide, untreated expedition photograph with a left-aligned medium-weight headline and white pill buttons, under a plain white mega-nav and a black utility strip.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-utility-bar"
+      },
+      {
+        "hex": "#532E3B",
+        "role": "accent-plum"
+      },
+      {
+        "hex": "#001F42",
+        "role": "accent-navy"
+      },
+      {
+        "hex": "#99642C",
+        "role": "link"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Ridgeway Sans",
+        "role": "display-and-body",
+        "weights": "medium 500 headline, regular 400 body",
+        "free_alternative": "Albert Sans (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons and search, about 12px on product tiles",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -1672,6 +2916,114 @@
     "visual_check": "true"
   },
   {
+    "slug": "pitch",
+    "name": "Pitch",
+    "url": "https://pitch.com",
+    "category": "productivity",
+    "theme": "mixed",
+    "mood": [
+      "bold",
+      "playful",
+      "loud"
+    ],
+    "signature": "A gigantic white geometric headline across a violet gradient, with a wall of faded template slides behind it and a prompt box with a coral outline in the centre.",
+    "palette": [
+      {
+        "hex": "#5318EA",
+        "role": "accent-violet"
+      },
+      {
+        "hex": "#280F62",
+        "role": "dark-indigo"
+      },
+      {
+        "hex": "#C6A5FF",
+        "role": "soft-lavender"
+      },
+      {
+        "hex": "#C4EE87",
+        "role": "lime-button"
+      },
+      {
+        "hex": "#0C021C",
+        "role": "text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas-and-headline"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Mark Pro",
+        "role": "display",
+        "weights": "bold 700",
+        "free_alternative": "Outfit (Fontsource / Google Fonts, weight 600)"
+      },
+      {
+        "family": "Eina 03",
+        "role": "body",
+        "weights": "regular 400",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Space Mono",
+        "role": "monospace-labels",
+        "weights": "400",
+        "free_alternative": "Space Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "pill white and indigo buttons, 4-8px lime button, 16px cards",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "polestar",
+    "name": "Polestar",
+    "url": "https://polestar.com",
+    "category": "mobility",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "cool",
+      "serious"
+    ],
+    "signature": "A single black car photographed on an unbroken pale grey studio floor, with a two-tone grey headline and outlined rectangular buttons at the far left.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#DEE0DF",
+        "role": "hero-ground"
+      },
+      {
+        "hex": "#000000",
+        "role": "text-and-announcement-bar"
+      },
+      {
+        "hex": "#F06E00",
+        "role": "accent"
+      },
+      {
+        "hex": "#FBD4B3",
+        "role": "accent-tint"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Polestar Unica",
+        "role": "display-and-body",
+        "weights": "regular 400",
+        "free_alternative": "Inter Tight (Fontsource / Google Fonts, weight 400)"
+      }
+    ],
+    "radius": "0px, square outlined buttons",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "posthog",
     "name": "PostHog",
     "url": "https://posthog.com",
@@ -1723,6 +3075,62 @@
     "radius": "3-8px soft",
     "visual_check": "true",
     "checked": "2026-11-16"
+  },
+  {
+    "slug": "railway",
+    "name": "Railway",
+    "url": "https://railway.com",
+    "category": "devtool",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "technical",
+      "calm"
+    ],
+    "signature": "A serif headline set over a painted night-sky illustration, with a dark product canvas floating in the clouds below it.",
+    "palette": [
+      {
+        "hex": "#13111C",
+        "role": "canvas"
+      },
+      {
+        "hex": "#1C1A29",
+        "role": "surface"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#553F83",
+        "role": "accent-button"
+      },
+      {
+        "hex": "#291839",
+        "role": "deep-purple-panel"
+      },
+      {
+        "hex": "#36353E",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "IBM Plex Serif",
+        "role": "display",
+        "weights": "regular 400 to medium 500",
+        "free_alternative": "IBM Plex Serif (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6-8px buttons, softly rounded 12px or so frame around the hero",
+    "checked": "2026-11-17",
+    "visual_check": "true"
   },
   {
     "slug": "ramp",
@@ -1867,6 +3275,52 @@
     "visual_check": "true"
   },
   {
+    "slug": "replit",
+    "name": "Replit",
+    "url": "https://replit.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "minimal",
+      "friendly"
+    ],
+    "signature": "A cream page with nothing on it except a huge tight-tracked question and one glowing prompt box, ringed by a soft orange halo.",
+    "palette": [
+      {
+        "hex": "#FAF6F1",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F6F5F4",
+        "role": "surface-alt"
+      },
+      {
+        "hex": "#37383C",
+        "role": "text"
+      },
+      {
+        "hex": "#FF3C00",
+        "role": "accent"
+      },
+      {
+        "hex": "#D3D1C9",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Replit Diatype",
+        "role": "display-and-body",
+        "weights": "regular 400, headline tightly tracked",
+        "free_alternative": "Inter Tight (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 6px inputs, about 16px prompt box, rounded-square icon tiles",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "resend",
     "name": "Resend",
     "url": "https://resend.com",
@@ -1961,6 +3415,144 @@
     ],
     "radius": "full pills on buttons, about 40px on the phone outline",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "rimowa",
+    "name": "Rimowa",
+    "url": "https://rimowa.com",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "luxurious",
+      "cinematic",
+      "calm"
+    ],
+    "signature": "A full-bleed photo of an open aluminium suitcase containing a handmade miniature landscape, with airy wide-tracked light type centred over it.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0D0900",
+        "role": "text"
+      },
+      {
+        "hex": "#F7F7F7",
+        "role": "surface"
+      },
+      {
+        "hex": "#0C67E7",
+        "role": "accent"
+      },
+      {
+        "hex": "#B50000",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Rimowa Grotesk Light",
+        "role": "display-and-body",
+        "weights": "light 300",
+        "free_alternative": "Hanken Grotesk (Fontsource / Google Fonts, weight 300)"
+      }
+    ],
+    "radius": "4px on buttons, search field square and outlined",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "rivian",
+    "name": "Rivian",
+    "url": "https://rivian.com",
+    "category": "mobility",
+    "theme": "light",
+    "mood": [
+      "bold",
+      "cinematic",
+      "friendly"
+    ],
+    "signature": "A floating white nav pill over a full-bleed action photograph of the truck on a coastal road, with an amber Demo drive button as the one saturated control.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "nav-and-canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text"
+      },
+      {
+        "hex": "#F2F2F2",
+        "role": "section-ground"
+      },
+      {
+        "hex": "#FFAC00",
+        "role": "accent"
+      },
+      {
+        "hex": "#E84826",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Adventure",
+        "role": "display-and-body",
+        "weights": "medium 500 to bold 700",
+        "free_alternative": "Instrument Sans (Fontsource / Google Fonts, weight 600)"
+      }
+    ],
+    "radius": "12px nav bar, full pills on buttons and slider",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "url": "https://runwayml.com",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "cinematic",
+      "minimal",
+      "serious"
+    ],
+    "signature": "A single large rounded film still, fire and a spacecraft hull, with a lowercase headline set directly on it at the lower left and a white button beneath.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#262626",
+        "role": "text-and-primary-button"
+      },
+      {
+        "hex": "#404040",
+        "role": "text-secondary"
+      },
+      {
+        "hex": "#EEF1F5",
+        "role": "secondary-button-surface"
+      },
+      {
+        "hex": "#2F50A0",
+        "role": "announcement-bar-blue"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ABC Normal",
+        "role": "display-and-body",
+        "weights": "regular 400 headline",
+        "free_alternative": "Inter Tight (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6px buttons, about 12px hero frame",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -2073,6 +3665,118 @@
     "checked": "2026-11-16"
   },
   {
+    "slug": "spotify",
+    "name": "Spotify",
+    "url": "https://spotify.com",
+    "category": "consumer-app",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "friendly",
+      "loud"
+    ],
+    "signature": "A near-black three-panel app shell where album art supplies all the colour and a single white pill is the only call to action.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#121212",
+        "role": "surface"
+      },
+      {
+        "hex": "#1F1F1F",
+        "role": "surface-raised"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#7C7C7C",
+        "role": "border"
+      },
+      {
+        "hex": "#1ED760",
+        "role": "accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "SpotifyMixUITitle",
+        "role": "display",
+        "weights": "bold 700",
+        "free_alternative": "Figtree (Fontsource / Google Fonts, weight 700)"
+      },
+      {
+        "family": "SpotifyMixUI",
+        "role": "body",
+        "weights": "regular 400, bold 700 for nav",
+        "free_alternative": "Figtree (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "full pills on buttons and search, about 8px on cards, circles for artists",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "stripe-press",
+    "name": "Stripe Press",
+    "url": "https://press.stripe.com",
+    "category": "editorial",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "cinematic",
+      "calm"
+    ],
+    "signature": "A marquee of condensed italic book titles above a huge rounded panel where a 3D hardcover floats over a hazed Romantic landscape painting.",
+    "palette": [
+      {
+        "hex": "#DDE6EC",
+        "role": "canvas"
+      },
+      {
+        "hex": "#E2E9F0",
+        "role": "canvas-token"
+      },
+      {
+        "hex": "#1C1B19",
+        "role": "text"
+      },
+      {
+        "hex": "#E8E7E0",
+        "role": "button-surface"
+      },
+      {
+        "hex": "#FF5FA8",
+        "role": "accent"
+      },
+      {
+        "hex": "#F4E400",
+        "role": "accent-2"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Cardinal Fruit",
+        "role": "display",
+        "weights": "regular 400, roman and italic",
+        "free_alternative": "Instrument Serif (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Suisse Mono",
+        "role": "ui",
+        "weights": "regular 400, uppercase",
+        "free_alternative": "DM Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "about 12px on the hero panel, full pills on buttons",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "stripe",
     "name": "Stripe",
     "url": "https://stripe.com",
@@ -2116,6 +3820,62 @@
     ],
     "radius": "4px, buttons rectangular",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "url": "https://supabase.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "technical",
+      "minimal",
+      "cool"
+    ],
+    "signature": "A two-line headline whose second line turns green, sitting above a bento grid of white feature cards that each hold a tiny line-art illustration.",
+    "palette": [
+      {
+        "hex": "#FDFDFD",
+        "role": "canvas"
+      },
+      {
+        "hex": "#030303",
+        "role": "text"
+      },
+      {
+        "hex": "#0E7E4E",
+        "role": "accent"
+      },
+      {
+        "hex": "#3ECF8E",
+        "role": "logo-green"
+      },
+      {
+        "hex": "#D8D8D8",
+        "role": "border"
+      },
+      {
+        "hex": "#F9F9F9",
+        "role": "input-surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "role": "display",
+        "weights": "regular 400 to medium 500",
+        "free_alternative": "Manrope (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Inter",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8-9px buttons and inputs, 12px cards",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -2217,6 +3977,58 @@
     "visual_check": "true"
   },
   {
+    "slug": "tailscale",
+    "name": "Tailscale",
+    "url": "https://tailscale.com",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "friendly",
+      "serious",
+      "warm"
+    ],
+    "signature": "A row of feature tabs where the active one fills with brick red, opening onto a big rounded white panel that shows the product in a matching red-tinted window.",
+    "palette": [
+      {
+        "hex": "#F9F7F6",
+        "role": "canvas"
+      },
+      {
+        "hex": "#181717",
+        "role": "text"
+      },
+      {
+        "hex": "#1F1E1E",
+        "role": "button-and-announcement-bar"
+      },
+      {
+        "hex": "#D04841",
+        "role": "accent"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "panel-surface"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter",
+        "role": "display-and-body",
+        "weights": "regular 400 headline, medium 500 buttons",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "mdio",
+        "role": "monospace-eyebrow-labels",
+        "weights": "regular 400",
+        "free_alternative": "JetBrains Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "8px buttons, 12px active tab, 28px large white panel",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
     "slug": "teenage-engineering",
     "name": "teenage engineering",
     "url": "https://teenage.engineering",
@@ -2260,6 +4072,112 @@
     "radius": "0px sharp",
     "visual_check": "true",
     "checked": "2026-11-16"
+  },
+  {
+    "slug": "things",
+    "name": "Things",
+    "url": "https://culturedcode.com/things",
+    "category": "productivity",
+    "theme": "light",
+    "mood": [
+      "calm",
+      "friendly",
+      "minimal"
+    ],
+    "signature": "A centred app icon and wordmark on pale blue-grey, with the real app window tipped at a steep angle rising from the bottom edge, its type tilted with it.",
+    "palette": [
+      {
+        "hex": "#F2F5F7",
+        "role": "canvas"
+      },
+      {
+        "hex": "#303336",
+        "role": "text"
+      },
+      {
+        "hex": "#263347",
+        "role": "text-navy"
+      },
+      {
+        "hex": "#2576EB",
+        "role": "accent"
+      },
+      {
+        "hex": "#5C9CF5",
+        "role": "accent-light-link"
+      },
+      {
+        "hex": "#DFE3E8",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "system UI sans (ui-sans-serif, San Francisco on Apple devices)",
+        "role": "display-and-body",
+        "weights": "bold 700 wordmark, regular 400 copy",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6-8px buttons, soft rounded app window",
+    "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "tldraw",
+    "name": "tldraw",
+    "url": "https://tldraw.dev",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "technical",
+      "friendly",
+      "minimal"
+    ],
+    "signature": "The hero shows a code panel and a live drawable canvas side by side, framed in electric blue with the real tool palette hovering at its corner.",
+    "palette": [
+      {
+        "hex": "#FEFEFE",
+        "role": "canvas"
+      },
+      {
+        "hex": "#404047",
+        "role": "text"
+      },
+      {
+        "hex": "#155DFC",
+        "role": "accent"
+      },
+      {
+        "hex": "#0D0D0D",
+        "role": "button-dark"
+      },
+      {
+        "hex": "#18181B",
+        "role": "code-panel"
+      },
+      {
+        "hex": "#099268",
+        "role": "green"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Archivo",
+        "role": "display-and-body",
+        "weights": "semibold 600 headline, regular 400 body",
+        "free_alternative": "Archivo (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "code",
+        "weights": "400-500",
+        "free_alternative": "Geist Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "6px buttons, 2-4px frames",
+    "checked": "2026-11-17",
+    "visual_check": "true"
   },
   {
     "slug": "uber",
@@ -2359,6 +4277,62 @@
     ],
     "radius": "full pills on buttons, 6px elsewhere",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "warp",
+    "name": "Warp",
+    "url": "https://warp.dev",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "technical",
+      "playful",
+      "minimal"
+    ],
+    "signature": "A monospace headline above a lab-figure frame labelled \"fig. 1\" holding a live dot matrix of tasks, drawn on faint hairline grid columns.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#1A1522",
+        "role": "text-and-button"
+      },
+      {
+        "hex": "#2A1EFF",
+        "role": "accent-blue"
+      },
+      {
+        "hex": "#EEF17C",
+        "role": "accent-yellow"
+      },
+      {
+        "hex": "#CDDFEE",
+        "role": "secondary-pale-blue"
+      },
+      {
+        "hex": "#D6D5D7",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Azeret Mono",
+        "role": "display",
+        "weights": "medium 500 to semibold 600",
+        "free_alternative": "Azeret Mono (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Matter",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "Inter (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "4px, nearly square buttons and panels",
+    "checked": "2026-11-17",
     "visual_check": "true"
   },
   {
@@ -2511,6 +4485,62 @@
     ],
     "radius": "full pills on status chips, 8px on buttons, 16px on nav panel",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "zed",
+    "name": "Zed",
+    "url": "https://zed.dev",
+    "category": "devtool",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "tactile",
+      "technical"
+    ],
+    "signature": "The page presents two products as a pair of printed-style masthead cards, one red and one blue, each with its own pixel-pattern tile, above a full editor screenshot on marbled pink paper.",
+    "palette": [
+      {
+        "hex": "#EEE7E7",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0A0A0A",
+        "role": "text"
+      },
+      {
+        "hex": "#1348DC",
+        "role": "accent-blue"
+      },
+      {
+        "hex": "#BF3C27",
+        "role": "accent-red"
+      },
+      {
+        "hex": "#669F59",
+        "role": "green-diff"
+      },
+      {
+        "hex": "#C8C4C4",
+        "role": "border"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "IBM Plex Serif",
+        "role": "display",
+        "weights": "regular 400 to medium 500, italic for taglines",
+        "free_alternative": "IBM Plex Serif (Fontsource / Google Fonts)"
+      },
+      {
+        "family": "Writer",
+        "role": "body",
+        "weights": "400",
+        "free_alternative": "IBM Plex Mono (Fontsource / Google Fonts)"
+      }
+    ],
+    "radius": "4px, nearly square with raised bottom edges",
+    "checked": "2026-11-17",
     "visual_check": "true"
   }
 ]
