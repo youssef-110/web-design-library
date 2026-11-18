@@ -11,7 +11,8 @@ All paths are relative to this file's folder.
 
 | Path | What it holds |
 |---|---|
-| `INDEX.md` | Every reference in one table: category, mood, signature, palette |
+| `INDEX.md` | Every reference in one table: category, mood, signature, palette; then the measured entries grouped by motion stack |
+| `index.json` | The same data as JSON, for filtering by `category`, `theme`, `mood` or `stack` |
 | `styles/` | One file per site: colour, type, layout, motion, techniques to borrow |
 | `PATTERNS.md` | What the strong references share |
 | `rules/` | The rule files, one per topic, each rule with an ID |
@@ -25,7 +26,7 @@ Follow the steps in order. Steps 1 to 4 take a few minutes and decide most of th
 
 1. **Brief.** Read the request, the repository and any links. Write one sentence: a (kind of page) for (who arrives, in what mood), that should feel (two or three words). Ask at most three questions, only about things that change the result. Detail: `rules/process.md` PRO1 to PRO7.
 2. **Subject world.** Before opening a reference, list five physical things from the product's subject: objects, places, documents, tools, materials. The direction comes from this list, not from the product's category. PRO8 to PRO11.
-3. **References.** Open `INDEX.md` and choose two or three entries: one for the world, one for type, one for a detail. At least one is from outside the product's category. Read each chosen file in `styles/` in full and take the technique, never the appearance. PRO12 to PRO16.
+3. **References.** Open `INDEX.md` and choose two or three entries: one for the world, one for type, one for a detail. At least one is from outside the product's category. Read each chosen file in `styles/` in full and take the technique, never the appearance. For a motion-led brief, start from the "By motion stack" table at the end of `INDEX.md`: those entries carry measured rebuild notes. PRO12 to PRO16.
 4. **Four-line commitment.** Write and show these before any code:
    - World: the subject-derived idea, in a phrase.
    - Signature: the one element a visitor would remember.
@@ -34,7 +35,7 @@ Follow the steps in order. Steps 1 to 4 take a few minutes and decide most of th
 
    Check the four lines against `rules/anti-slop.md`. Three or more matches means a new plan. PRO17 to PRO23.
 5. **Build.** Load the rule files for the task from the table below. If a chosen reference links a recipe in `recipes/`, read it before writing that part: it carries the working code and the traps already hit. Define tokens first, then build every section, state and breakpoint with real content. PRO30 to PRO32.
-6. **Verify.** Open the result in a browser and run `CHECKLIST.md` from top to bottom, including `node scripts/slop-scan.mjs <files or folders>`. Fix what fails, then write the report in the format at the end of the checklist. PRO33 to PRO39.
+6. **Verify.** Open the result in a browser and run `CHECKLIST.md` from top to bottom, including `node scripts/slop-scan.mjs <files or folders>`. Fix what fails, then write the report in the format at the end of the checklist. A line the brief requires despite a finding can carry a `slop-ok` comment; name it in the report. If Node is not available, list the scan as not run. PRO33 to PRO39.
 
 ## Which rules to load
 
