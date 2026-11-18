@@ -13,6 +13,7 @@ fonts:
   - { family: "Family Name", role: display, weights: "600-800", free_alternative: "Free Font on Fontsource or Google Fonts" }
   - { family: "Family Name", role: body, weights: "400-500", free_alternative: "same" }
 radius: "0-4px sharp"        # short description: sharp, 8px soft, 20px+ round, pills
+stack: [GSAP 3 ScrollTrigger, Lenis]   # optional: motion and rendering stack as measured (scripts/probe-site.mjs). If present, "## Rebuild notes" is required
 checked: 2026-11-16          # date the live site was looked at
 visual_check: true           # true only if the page was seen (screenshot or browser), not just its tokens
 ---
@@ -35,6 +36,9 @@ Radii, borders, shadows, imagery style (photo, 3D, illustration, product UI), te
 
 ## Motion
 What moves and how (only what you could observe or the page clearly shows). Write "not observed" if unknown.
+
+## Rebuild notes
+Optional, required when `stack` is set. The measured numbers an agent needs to rebuild the feel without the site's code: type scale (px, weight, line height, tracking), container widths and gutters, easing curves and durations, scroll ranges (pinned or scrubbed, and over how many viewport heights), text-splitting method, and which free font gets closest. Facts from `scripts/probe-site.mjs` or the browser, written as a short list. Never paste the site's code, copy or assets.
 
 ## Why it does not look generic
 The one to three decisions that came from this brand's subject rather than from a template.

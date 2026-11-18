@@ -56,6 +56,58 @@
     "visual_check": "true"
   },
   {
+    "slug": "agrumea-farm",
+    "name": "Agrumea Farm",
+    "url": "https://www.agrumeafarm.it/en",
+    "category": "food",
+    "theme": "light",
+    "mood": [
+      "warm",
+      "playful",
+      "friendly"
+    ],
+    "signature": "A carousel of 3D jam and preserve jars floating in an arc on a warm cream page, turning around a large burgundy disc whose edge carries a curved line of text.",
+    "palette": [
+      {
+        "hex": "#FDF3EB",
+        "role": "cream canvas"
+      },
+      {
+        "hex": "#762530",
+        "role": "burgundy text and disc"
+      },
+      {
+        "hex": "#E94E1B",
+        "role": "blood-orange actions and accents"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Ivy Style Sans",
+        "role": "body and interface",
+        "weights": "400-600",
+        "free_alternative": "Figtree, or Instrument Sans"
+      },
+      {
+        "family": "IvyMode",
+        "role": "wordmark-style accents",
+        "weights": "400-600",
+        "free_alternative": "Fraunces 500"
+      }
+    ],
+    "radius": "pills and circles on controls, 14 to 16px on cards",
+    "stack": [
+      "Nuxt",
+      "Lenis",
+      "WebGL",
+      "CSS keyframes",
+      "Page transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "airbnb",
     "name": "Airbnb",
     "url": "https://airbnb.com",
@@ -152,6 +204,64 @@
     "radius": "12px soft",
     "visual_check": "true",
     "checked": "2026-11-16"
+  },
+  {
+    "slug": "anthracite-studio",
+    "name": "Anthracite Studio",
+    "url": "https://anthracitestudio.be/",
+    "category": "studio",
+    "theme": "dark",
+    "mood": [
+      "editorial",
+      "technical",
+      "bold"
+    ],
+    "signature": "A large light serif headline on a blue-black page where selected words sit on solid electric-blue blocks, above a hero field of drifting ASCII characters that forms a landscape.",
+    "palette": [
+      {
+        "hex": "#04040E",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#0004EB",
+        "role": "highlight blocks and active buttons"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Instrument Serif",
+        "role": "display",
+        "weights": "400",
+        "free_alternative": "Instrument Serif (Google Fonts)"
+      },
+      {
+        "family": "Figtree",
+        "role": "body",
+        "weights": "300-900 variable, mostly 400",
+        "free_alternative": "Figtree (Google Fonts)"
+      },
+      {
+        "family": "Sometype Mono",
+        "role": "labels and buttons",
+        "weights": "400 at 11-12px uppercase, +0.06em",
+        "free_alternative": "Sometype Mono (Google Fonts)"
+      }
+    ],
+    "radius": "0px, square everywhere",
+    "stack": [
+      "Astro",
+      "View Transitions API",
+      "Lenis",
+      "Canvas 2D",
+      "CSS transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
   },
   {
     "slug": "anthropic",
@@ -502,6 +612,61 @@
     "visual_check": "true"
   },
   {
+    "slug": "bulletproof",
+    "name": "Bulletproof",
+    "url": "https://www.wearebulletproof.com/",
+    "category": "studio",
+    "theme": "mixed",
+    "mood": [
+      "luxurious",
+      "cinematic",
+      "editorial"
+    ],
+    "signature": "A full-bleed brand-experience video under a giant uppercase grotesk headline whose lines are pushed to different horizontal positions, then a pale page where a single serif monogram is drawn in a thin line.",
+    "palette": [
+      {
+        "hex": "#181713",
+        "role": "dark hero and type"
+      },
+      {
+        "hex": "#F1F1F1",
+        "role": "light canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text on video"
+      },
+      {
+        "hex": "#000000",
+        "role": "video sections"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Sequel Sans",
+        "role": "display",
+        "weights": "400-500, uppercase, very tight tracking",
+        "free_alternative": "Inter Tight 500 uppercase, or Archivo 500"
+      },
+      {
+        "family": "Mixta Pro",
+        "role": "body statements",
+        "weights": "300 light with italic",
+        "free_alternative": "Fraunces 300, or Newsreader 300 with italic"
+      }
+    ],
+    "radius": "8px on chips and buttons, nearly square",
+    "stack": [
+      "Webflow",
+      "Lenis",
+      "Split words",
+      "CSS transitions",
+      "Autoplay video"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "cal",
     "name": "Cal.com",
     "url": "https://cal.com",
@@ -838,6 +1003,171 @@
     "visual_check": "true"
   },
   {
+    "slug": "cyera-ai-guardian",
+    "name": "Cyera AI Guardian",
+    "url": "https://secure-the-unknown.cyera.com/",
+    "category": "ai",
+    "theme": "dark",
+    "mood": [
+      "playful",
+      "cinematic",
+      "bold"
+    ],
+    "signature": "A cel-shaded 3D asteroid field in violet, with a capsule spacecraft at the centre, behind a three-sentence headline and one \"begin your mission\" button that starts an interactive story.",
+    "palette": [
+      {
+        "hex": "#6D2D93",
+        "role": "violet scene and brand"
+      },
+      {
+        "hex": "#160923",
+        "role": "deep violet text and panels"
+      },
+      {
+        "hex": "#FBFBFB",
+        "role": "text and light button"
+      },
+      {
+        "hex": "#000000",
+        "role": "space"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Haffer",
+        "role": "display and body",
+        "weights": "variable 100-900, 400-600 used",
+        "free_alternative": "Host Grotesk, or Hanken Grotesk"
+      }
+    ],
+    "radius": "8 to 16px on buttons and panels",
+    "stack": [
+      "WebGL",
+      "Theatre.js",
+      "GSAP SplitText",
+      "CSS keyframes"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
+    "slug": "david-estrada",
+    "name": "David Estrada",
+    "url": "https://david-estrada.dev/",
+    "category": "studio",
+    "theme": "mixed",
+    "mood": [
+      "bold",
+      "friendly",
+      "playful"
+    ],
+    "signature": "Section titles in a black grotesk at 130 to 300px, with glossy 3D app icons floating in and around the letters and project mockups overlapping the words.",
+    "palette": [
+      {
+        "hex": "#0A0806",
+        "role": "dark sections and text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "light sections and text on dark"
+      },
+      {
+        "hex": "#C85000",
+        "role": "hire button and closing section"
+      },
+      {
+        "hex": "#17140F",
+        "role": "raised surfaces on dark"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Neue Haas Grotesk Display",
+        "role": "display",
+        "weights": "700 for giant titles, 400 for 50px statements",
+        "free_alternative": "Inter Display 700, or Inter Tight 700"
+      },
+      {
+        "family": "Satoshi",
+        "role": "body",
+        "weights": "500",
+        "free_alternative": "Satoshi (Fontshare, free)"
+      }
+    ],
+    "radius": "20px on cards and buttons, 12px on small controls",
+    "stack": [
+      "WordPress",
+      "CSS keyframes",
+      "CSS transitions",
+      "WebGL",
+      "Split words"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
+    "slug": "deepbook",
+    "name": "DeepBook",
+    "url": "https://deepbook-v2-wip.webflow.io/",
+    "category": "fintech",
+    "theme": "dark",
+    "mood": [
+      "technical",
+      "bold",
+      "cool"
+    ],
+    "signature": "A pinned split screen where a flat blue text panel steps through product names while an isometric line illustration beside it morphs from one financial primitive into the next.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text and light sections"
+      },
+      {
+        "hex": "#1E6EF3",
+        "role": "accent panels and primary button"
+      },
+      {
+        "hex": "#1B1B1B",
+        "role": "nav pill"
+      },
+      {
+        "hex": "#6A7681",
+        "role": "hero line field"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "TWK Everett",
+        "role": "display",
+        "weights": "500 display, 400 for 48px statements",
+        "free_alternative": "Inter Tight 500, or Host Grotesk 500"
+      },
+      {
+        "family": "TWK Everett",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter (already loaded by the site as a fallback)"
+      }
+    ],
+    "radius": "2 to 8px, nearly square",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP SplitText",
+      "GSAP MorphSVG",
+      "GSAP DrawSVG",
+      "GSAP CustomEase",
+      "Lenis",
+      "Canvas 2D",
+      "Webflow"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "deepecho-reel",
     "name": "DeepEcho Reel",
     "url": "https://deepecho-directions.vercel.app/option-e-reel.html",
@@ -900,6 +1230,69 @@
       }
     ],
     "radius": "28px on the film, 16px on tiles and panels, pills on buttons and the nav group",
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
+    "slug": "delta-cafes",
+    "name": "Delta Cafés",
+    "url": "https://deltacafes.com/en",
+    "category": "food",
+    "theme": "dark",
+    "mood": [
+      "warm",
+      "editorial",
+      "cinematic"
+    ],
+    "signature": "Coffee-brown pages with a light, wide serif for warm sentences and a heavy condensed sans for shouted titles, under a dark floating pill nav with the red triangle logo in its centre.",
+    "palette": [
+      {
+        "hex": "#2B1B14",
+        "role": "coffee-brown canvas"
+      },
+      {
+        "hex": "#35221A",
+        "role": "raised brown surfaces and text on light"
+      },
+      {
+        "hex": "#EDD1BD",
+        "role": "milk-cream text and buttons"
+      },
+      {
+        "hex": "#F8EAE0",
+        "role": "light text"
+      },
+      {
+        "hex": "#142115",
+        "role": "green sustainability section"
+      },
+      {
+        "hex": "#CF1010",
+        "role": "logo red only"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Delta Season (custom variable serif)",
+        "role": "display and body",
+        "weights": "300 display, 420-550 text, with italic",
+        "free_alternative": "Fraunces variable (opsz, wght 300-550)"
+      },
+      {
+        "family": "Trade Gothic Condensed",
+        "role": "titles and labels",
+        "weights": "500-700 uppercase",
+        "free_alternative": "Oswald 600, or Barlow Condensed 700"
+      }
+    ],
+    "radius": "8 to 16px on cards, 48 to 60px pills",
+    "stack": [
+      "Nuxt",
+      "Lenis",
+      "Canvas 2D",
+      "Autoplay video",
+      "CSS transitions"
+    ],
     "checked": "2026-11-18",
     "visual_check": "true"
   },
@@ -1008,6 +1401,69 @@
     ],
     "radius": "12px to 16px rounded rectangles on buttons",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "dopamine-studio",
+    "name": "Dopamine Studio",
+    "url": "https://www.dopaminestudio.io/",
+    "category": "studio",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "loud",
+      "technical"
+    ],
+    "signature": "A black page with acid-lime type and a grainy lime glow rising from the bottom of the hero, beside a rendered 3D toggle switch, then project screens orbiting a wireframe globe.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#CCFF00",
+        "role": "accent text"
+      },
+      {
+        "hex": "#333333",
+        "role": "surfaces"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Space Grotesk",
+        "role": "display and body",
+        "weights": "300 for large headings, 400 elsewhere",
+        "free_alternative": "Space Grotesk (Google Fonts)"
+      },
+      {
+        "family": "IBM Plex Mono",
+        "role": "labels and service lists",
+        "weights": "300 uppercase",
+        "free_alternative": "IBM Plex Mono (Google Fonts)"
+      },
+      {
+        "family": "ITC Avant Garde Gothic",
+        "role": "oversized wordmark",
+        "weights": "400 at 216px",
+        "free_alternative": "Questrial or Didact Gothic"
+      }
+    ],
+    "radius": "pills (100px) on buttons, 24px on cards",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP SplitText",
+      "GSAP Observer",
+      "Webflow",
+      "Webflow Interactions",
+      "Canvas 2D",
+      "CSS keyframes"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -1448,6 +1904,66 @@
     ],
     "radius": "6px buttons, 8px inputs, pill announcement chip",
     "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "grail",
+    "name": "Grail",
+    "url": "https://grail-app.com/",
+    "category": "consumer-app",
+    "theme": "mixed",
+    "mood": [
+      "editorial",
+      "playful",
+      "cinematic"
+    ],
+    "signature": "A wide, flared light serif in capitals spanning the black hero, over a 3D cloud of floating quest cards and heraldic pattern tiles, then a pale sheet of numbered \"a chance to\" rows on lilac.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "hero canvas"
+      },
+      {
+        "hex": "#F6F6F6",
+        "role": "light sheet"
+      },
+      {
+        "hex": "#ECD2F3",
+        "role": "lilac background and buttons"
+      },
+      {
+        "hex": "#623562",
+        "role": "plum text and accents"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text on black"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "PP Pangaia",
+        "role": "display",
+        "weights": "300 light, uppercase",
+        "free_alternative": "Cormorant 300 uppercase, or Gloock"
+      },
+      {
+        "family": "Switzer",
+        "role": "body",
+        "weights": "400-700 variable",
+        "free_alternative": "Switzer (Fontshare, free)"
+      }
+    ],
+    "radius": "pills (999px) on buttons, 20 to 24px on sheets and cards",
+    "stack": [
+      "Vite",
+      "Lenis",
+      "WebGL",
+      "CSS keyframes",
+      "CSS modules",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -2795,6 +3311,55 @@
     "visual_check": "true"
   },
   {
+    "slug": "obys-grids",
+    "name": "Obys Grids",
+    "url": "https://grids03.obys.agency/",
+    "category": "editorial",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "editorial",
+      "bold"
+    ],
+    "signature": "A white page ruled by thick black column bars, one grotesk used at only two sizes (378px and 12px), black and white portraits, and an animated barcode of vertical stripes running down the left edge.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "type"
+      },
+      {
+        "hex": "#DEDFD9",
+        "role": "warm grey panels"
+      },
+      {
+        "hex": "#B2B2B2",
+        "role": "secondary text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Obys Sans",
+        "role": "display and body",
+        "weights": "400 only",
+        "free_alternative": "Inter Tight 400, or Neue Montreal (Pangram, free for personal use)"
+      }
+    ],
+    "radius": "0px, square",
+    "stack": [
+      "Vite",
+      "Lenis",
+      "Canvas 2D",
+      "CSS keyframes",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "openai",
     "name": "OpenAI",
     "url": "https://openai.com",
@@ -3141,6 +3706,54 @@
     "radius": "3-8px soft",
     "visual_check": "true",
     "checked": "2026-11-16"
+  },
+  {
+    "slug": "preymaker",
+    "name": "Preymaker",
+    "url": "https://preymaker.com/",
+    "category": "studio",
+    "theme": "dark",
+    "mood": [
+      "cinematic",
+      "minimal",
+      "serious"
+    ],
+    "signature": "A full-screen black and white video of feathered wings in extreme close-up, with one short two-line statement placed right of centre and almost nothing else on screen.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#F1F3F5",
+        "role": "text"
+      },
+      {
+        "hex": "#859099",
+        "role": "secondary text"
+      },
+      {
+        "hex": "#E9E9E9",
+        "role": "light surfaces"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "New Grotesk",
+        "role": "display and body",
+        "weights": "600 for statements, 700 uppercase labels, 400-500 body",
+        "free_alternative": "Inter Tight 600, or Schibsted Grotesk 600"
+      }
+    ],
+    "radius": "2px, square",
+    "stack": [
+      "Next.js",
+      "Autoplay video",
+      "CSS transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
   },
   {
     "slug": "railway",
@@ -3787,6 +4400,66 @@
     "visual_check": "true"
   },
   {
+    "slug": "spyker",
+    "name": "Spyker Cars",
+    "url": "https://www.spykercars.com/",
+    "category": "mobility",
+    "theme": "mixed",
+    "mood": [
+      "luxurious",
+      "cinematic",
+      "serious"
+    ],
+    "signature": "A full-bleed close-up video of bodywork in dark teal, with a centred condensed uppercase headline in widely tracked capitals and one white rectangular button, under a script logo.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "dark sections and text"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "light sections"
+      },
+      {
+        "hex": "#F0F0F0",
+        "role": "light grey panels"
+      },
+      {
+        "hex": "#101010",
+        "role": "near-black text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Futura PT Condensed",
+        "role": "display and labels",
+        "weights": "500 uppercase, positive tracking",
+        "free_alternative": "Oswald 500, or Barlow Condensed 500"
+      },
+      {
+        "family": "Swiss 721",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Inter, or Arimo"
+      },
+      {
+        "family": "PT Serif",
+        "role": "occasional accents",
+        "weights": "400",
+        "free_alternative": "PT Serif (Google Fonts)"
+      }
+    ],
+    "radius": "2px, square",
+    "stack": [
+      "Next.js",
+      "Lenis",
+      "Autoplay video",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "stripe-press",
     "name": "Stripe Press",
     "url": "https://press.stripe.com",
@@ -3991,6 +4664,72 @@
     "visual_check": "true"
   },
   {
+    "slug": "sweet-tape",
+    "name": "Sweet Tape",
+    "url": "https://sweet-tape.com/",
+    "category": "commerce",
+    "theme": "mixed",
+    "mood": [
+      "playful",
+      "loud",
+      "tactile"
+    ],
+    "signature": "Condensed black type set wider than the screen on crumpled lime paper, with 3D tape rolls tumbling across the letters and a paper tab marked \"pull me\" hanging from the top edge.",
+    "palette": [
+      {
+        "hex": "#034102",
+        "role": "deep green"
+      },
+      {
+        "hex": "#B6FE00",
+        "role": "lime paper field"
+      },
+      {
+        "hex": "#FA8005",
+        "role": "orange product field"
+      },
+      {
+        "hex": "#FCD805",
+        "role": "yellow product field"
+      },
+      {
+        "hex": "#F4F3EF",
+        "role": "paper white"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Futura PT Condensed",
+        "role": "display",
+        "weights": "800, uppercase at 87 to 550px",
+        "free_alternative": "League Gothic, or Barlow Condensed 800"
+      },
+      {
+        "family": "Inter Tight",
+        "role": "body",
+        "weights": "600",
+        "free_alternative": "Inter Tight (Google Fonts)"
+      },
+      {
+        "family": "Nothing You Could Do",
+        "role": "handwritten notes",
+        "weights": "400",
+        "free_alternative": "Nothing You Could Do (Google Fonts)"
+      }
+    ],
+    "radius": "circles for product badges, 25 to 77px on stickers and panels",
+    "stack": [
+      "Next.js",
+      "Lenis",
+      "WebGL",
+      "Split words",
+      "CSS transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "sweetgreen",
     "name": "Sweetgreen",
     "url": "https://sweetgreen.com",
@@ -4040,6 +4779,65 @@
     ],
     "radius": "full pills on buttons",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "sybiosme",
+    "name": "Sybiosme",
+    "url": "https://www.sybiosme.com/en",
+    "category": "studio",
+    "theme": "mixed",
+    "mood": [
+      "bold",
+      "minimal",
+      "technical"
+    ],
+    "signature": "A grey halftone dot field with a soft sphere behind it, the brand name set across the full width at 345px along the bottom edge, and a monthly price as the first thing you read.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#111111",
+        "role": "text"
+      },
+      {
+        "hex": "#F3F2F2",
+        "role": "panels"
+      },
+      {
+        "hex": "#686868",
+        "role": "secondary text and hero grey"
+      },
+      {
+        "hex": "#FA6B2A",
+        "role": "primary action only"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Overused Grotesk",
+        "role": "display",
+        "weights": "400 for the wordmark, 500 for headings at -0.05em",
+        "free_alternative": "Overused Grotesk (free, open source)"
+      },
+      {
+        "family": "SYBIOSME Numerals (custom)",
+        "role": "body and interface",
+        "weights": "500",
+        "free_alternative": "Overused Grotesk 500, or Inter 500 with tabular numerals"
+      }
+    ],
+    "radius": "pills and circles on controls, 24 to 54px on cards",
+    "stack": [
+      "SvelteKit",
+      "Lenis",
+      "Canvas 2D",
+      "CSS transitions",
+      "CSS keyframes"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -4607,6 +5405,63 @@
     ],
     "radius": "4px, nearly square with raised bottom edges",
     "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "zirka",
+    "name": "Zirka",
+    "url": "https://www.zrk.technology/",
+    "category": "hardware",
+    "theme": "dark",
+    "mood": [
+      "technical",
+      "serious",
+      "cinematic"
+    ],
+    "signature": "A black targeting display: a header strip of vertical bars that fill orange as you scroll, mono telemetry text typing itself out, and 200px orange figures framed like readouts beside a hard-lit render of the interceptor.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#DDDDDD",
+        "role": "text"
+      },
+      {
+        "hex": "#FC4F00",
+        "role": "figures"
+      },
+      {
+        "hex": "#050505",
+        "role": "panels"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Inter Display",
+        "role": "display and body",
+        "weights": "500, tight",
+        "free_alternative": "Inter Display (Google Fonts, opsz)"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "telemetry and labels",
+        "weights": "400 at 10px uppercase",
+        "free_alternative": "Geist Mono (Google Fonts)"
+      }
+    ],
+    "radius": "0px, square",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP Observer",
+      "Lenis",
+      "Webflow",
+      "Canvas image sequence",
+      "CSS keyframes",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   }
 ]

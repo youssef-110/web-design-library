@@ -80,8 +80,10 @@ Each file is `rules/<name>.md`. Rule IDs use these prefixes: PRO, TYP, COL, LAY,
 ## Add a reference
 
 1. Copy `TEMPLATE.md` to `styles/<site>.md`.
-2. Look at the live site. Record only colours, fonts and measurements you can see or measure, and write the analysis in your own words. Store no screenshots, logos or site copy.
+2. Measure the live site: `node scripts/probe-site.mjs <tmp-dir> <slug>=<url>` writes the type scale, colours, layout numbers and motion stack (GSAP tweens and ScrollTriggers, CSS transitions, smooth scroll, WebGL) to JSON, plus four screenshots. Look at the screenshots, then record only what was measured or seen, in your own words. Fill `stack` and `## Rebuild notes` when the motion was measured. Store no screenshots, logos, code or site copy in the library.
 3. Run `node scripts/build-index.mjs --check`. It validates the entry and rebuilds `INDEX.md` and `index.json`.
+
+To rebuild a reference's feel, read its entry in full: "Rebuild notes" carries the numbers (type scale, easing, durations, scroll ranges, closest free font). Take the technique and the numbers, then apply them to your own subject, palette and content.
 
 ## Sources
 
