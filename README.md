@@ -13,7 +13,7 @@ The references supply taste. The rules supply the craft and the checks. An agent
 | [`rules/anti-slop.md`](rules/anti-slop.md) | The catalogue of patterns that mark a page as generated, each with what to do instead |
 | [`CHECKLIST.md`](CHECKLIST.md) | The pre-ship check and the honest report format |
 | [`scripts/slop-scan.mjs`](scripts/slop-scan.mjs) | A dependency-free scanner for the checkable anti-slop patterns |
-| [`INDEX.md`](INDEX.md) | 106 site references in one table, grouped by category, with mood, signature move and palette |
+| [`INDEX.md`](INDEX.md) | 116 site references in one table, grouped by category, with mood, signature move and palette |
 | [`index.json`](index.json) | The same data, machine-readable |
 | [`styles/`](styles) | One Markdown file per site, all in the same format |
 | [`PATTERNS.md`](PATTERNS.md) | What the strong references have in common |

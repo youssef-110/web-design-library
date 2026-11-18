@@ -3,7 +3,10 @@
 // and four screenshots at different scroll depths. Uses a local Chrome or Edge over the DevTools
 // protocol; no npm packages (needs Node 22+ for the built-in WebSocket).
 //
-//   node scripts/probe-site.mjs <outDir> <slug>=<url> [<slug>=<url> ...]
+//   node scripts/probe-site.mjs <outDir> <slug>=<url>[|<button text>] ...
+//
+// For sites behind an entry or consent screen, add |<button text> to press that button first
+// (matched by the start of its text, case-insensitive). Always pick the decline or no-sound option.
 //
 // Writes <outDir>/<slug>.json and <slug>-0..3.jpg. Read the JSON, look at the screenshots, then
 // write the entry in your own words. The screenshots are for you; do not commit them (README rules).
@@ -143,12 +146,18 @@ await c.send('Network.setUserAgentOverride', { userAgent: UA });
 await c.send('Emulation.setDeviceMetricsOverride', { width: 1440, height: 900, deviceScaleFactor: 0.6, mobile: false });
 
 for (const pair of pairs) {
-  const [slug, url] = [pair.slice(0, pair.indexOf('=')), pair.slice(pair.indexOf('=') + 1)];
+  const [slug, rest] = [pair.slice(0, pair.indexOf('=')), pair.slice(pair.indexOf('=') + 1)];
+  const [url, clickText] = rest.split('|');  // optional: text of an entry or consent button to press first (use the decline option)
   const out = { slug, url };
   try {
     const loaded = c.once('Page.loadEventFired', 45000);
     await c.send('Page.navigate', { url });
     await loaded; await sleep(6000);
+    if (clickText) {
+      const hit = await evalJson(c, `(() => { const t = ${JSON.stringify((clickText||'').toLowerCase())}; const el = [...document.querySelectorAll('button,a,[role=button],div,span')].find(e => e.children.length < 3 && e.textContent.replace(/\s+/g, ' ').trim().toLowerCase().startsWith(t)); if (el) { el.click(); return true; } return false; })()`);
+      out.clicked = clickText + (hit ? ' ok' : ' NOT FOUND');
+      await sleep(6000);
+    }
     await shot(c, join(outDir, `${slug}-0.jpg`), 0);
     out.atLoad = await evalJson(c, PROBE);
     const H = out.atLoad ? out.atLoad.pageHeight : 6000;

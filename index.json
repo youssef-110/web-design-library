@@ -468,6 +468,50 @@
     "visual_check": "true"
   },
   {
+    "slug": "awards-racing",
+    "name": "Awards Racing",
+    "url": "https://awards.racing/",
+    "category": "consumer-app",
+    "theme": "dark",
+    "mood": [
+      "loud",
+      "playful",
+      "bold"
+    ],
+    "signature": "A wide italic racing title split diagonally into yellow and white, over a stepped, pixel-edged window into a 3D scene of two cartoon racers facing off behind a turbine wheel.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#FFC500",
+        "role": "racing yellow"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Druk Wide",
+        "role": "display",
+        "weights": "900 italic uppercase, 500",
+        "free_alternative": "Unbounded 900 with a CSS skew, or Archivo Black"
+      }
+    ],
+    "radius": "0px; the hero frame is a stepped pixel shape",
+    "stack": [
+      "Nuxt",
+      "WebGL",
+      "Physics engine",
+      "CSS keyframes"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "basecamp",
     "name": "Basecamp",
     "url": "https://basecamp.com",
@@ -563,6 +607,69 @@
     ],
     "radius": "8px buttons, 16px app window",
     "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "belgrade-arbor",
+    "name": "Belgrade Arbor",
+    "url": "https://belgradearbor.rs/en",
+    "category": "commerce",
+    "theme": "mixed",
+    "mood": [
+      "luxurious",
+      "warm",
+      "cinematic"
+    ],
+    "signature": "An architectural render of a tree-branch facade revealed through a glass-refraction distortion with rainbow edges, then deep forest-green pages with a cream serif in tall capitals.",
+    "palette": [
+      {
+        "hex": "#FDFBEF",
+        "role": "cream canvas and text on green"
+      },
+      {
+        "hex": "#2E3A26",
+        "role": "forest green text and sections"
+      },
+      {
+        "hex": "#314759",
+        "role": "slate blue panels"
+      },
+      {
+        "hex": "#A68150",
+        "role": "bronze logo and details"
+      },
+      {
+        "hex": "#CCBF99",
+        "role": "sand rules"
+      },
+      {
+        "hex": "#E7FD55",
+        "role": "lime link accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "PP Editorial Old",
+        "role": "display",
+        "weights": "300-400 with italic, uppercase titles",
+        "free_alternative": "Gloock, or Playfair Display 400"
+      },
+      {
+        "family": "Work Sans",
+        "role": "body",
+        "weights": "400-500",
+        "free_alternative": "Work Sans (Google Fonts)"
+      }
+    ],
+    "radius": "pills on the nav and buttons, 20 to 28px on cards",
+    "stack": [
+      "Next.js",
+      "Lenis",
+      "WebGL",
+      "Autoplay video",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -764,6 +871,59 @@
     ],
     "radius": "about 40px on the hero panel, 32px on the product card, 12px to 20px on buttons",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "cartier-choeur-des-pierres",
+    "name": "Cartier, Le Chœur des Pierres",
+    "url": "https://www.cartier.com/en-fr/lechoeurdespierres",
+    "category": "commerce",
+    "theme": "light",
+    "mood": [
+      "luxurious",
+      "calm",
+      "cinematic"
+    ],
+    "signature": "Polished coloured gemstones resting on grey silk, with the campaign title set in a high-contrast serif where the small words are italic lowercase and the nouns are tall capitals, marked \"Chapter II\".",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas and panels"
+      },
+      {
+        "hex": "#000000",
+        "role": "text and buttons"
+      },
+      {
+        "hex": "#212529",
+        "role": "body text"
+      },
+      {
+        "hex": "#C10016",
+        "role": "brand red"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Fancy Cut (Cartier proprietary)",
+        "role": "display and body serif",
+        "weights": "300-400",
+        "free_alternative": "Cormorant Garamond, or Bodoni Moda for titles"
+      },
+      {
+        "family": "Brilliant Cut (Cartier proprietary)",
+        "role": "labels and buttons",
+        "weights": "400-700, 12px uppercase",
+        "free_alternative": "Montserrat 500 uppercase, or Jost"
+      }
+    ],
+    "radius": "0 to 4px, square",
+    "stack": [
+      "Nuxt",
+      "Scroll-driven story",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -1404,6 +1564,60 @@
     "visual_check": "true"
   },
   {
+    "slug": "dont-look-up",
+    "name": "Don't Look Up",
+    "url": "https://www.dontlookup.app/",
+    "category": "consumer-app",
+    "theme": "light",
+    "mood": [
+      "playful",
+      "friendly",
+      "tactile"
+    ],
+    "signature": "A pencil-drawn game on warm paper: a giant pair of legs stands over a crowd of tiny sketched people, under a hand-lettered black title with eyes for the O's, and two sticker-like buttons with thick outlines.",
+    "palette": [
+      {
+        "hex": "#F4F3EF",
+        "role": "paper canvas"
+      },
+      {
+        "hex": "#14140F",
+        "role": "ink"
+      },
+      {
+        "hex": "#F8E08A",
+        "role": "highlight yellow"
+      },
+      {
+        "hex": "#C0342A",
+        "role": "alarm red"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Marsipan",
+        "role": "display and buttons",
+        "weights": "400-900, hand-drawn",
+        "free_alternative": "Gochi Hand, or Patrick Hand for small sizes"
+      },
+      {
+        "family": "Nunito",
+        "role": "body and interface",
+        "weights": "600-800",
+        "free_alternative": "Nunito (Google Fonts)"
+      }
+    ],
+    "radius": "irregular 24 to 30px on stickers, circles on tokens",
+    "stack": [
+      "Vite",
+      "Canvas 2D",
+      "CSS keyframes",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "dopamine-studio",
     "name": "Dopamine Studio",
     "url": "https://www.dopaminestudio.io/",
@@ -1752,6 +1966,66 @@
     ],
     "radius": "full pills on tab bar, 16px on notification cards",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "forge-automotive",
+    "name": "Forge Automotive",
+    "url": "https://forgeautomotive.co.uk/",
+    "category": "mobility",
+    "theme": "dark",
+    "mood": [
+      "luxurious",
+      "cinematic",
+      "bold"
+    ],
+    "signature": "Three customised cars lined up nose-on in the dark, a red one in the middle, under a centred ultralight serif headline, behind a black entry gate that asks you to accept or reject cookies before entering.",
+    "palette": [
+      {
+        "hex": "#000000",
+        "role": "canvas"
+      },
+      {
+        "hex": "#0C0C0C",
+        "role": "raised surfaces"
+      },
+      {
+        "hex": "#161616",
+        "role": "panels"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "text"
+      },
+      {
+        "hex": "#F2F1ED",
+        "role": "light buttons"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "PP Editorial New",
+        "role": "display",
+        "weights": "200 ultralight, 300",
+        "free_alternative": "Instrument Serif 400, or Newsreader 200"
+      },
+      {
+        "family": "Geist",
+        "role": "body and labels",
+        "weights": "300 body, 600 tracked uppercase labels",
+        "free_alternative": "Geist (Google Fonts)"
+      }
+    ],
+    "radius": "0px, square",
+    "stack": [
+      "Next.js",
+      "Lenis",
+      "Canvas 2D",
+      "Split words",
+      "CSS keyframes",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -2115,6 +2389,70 @@
     "visual_check": "true"
   },
   {
+    "slug": "heron-ai",
+    "name": "Heron AI",
+    "url": "https://heronaiapp.com/",
+    "category": "ai",
+    "theme": "light",
+    "mood": [
+      "technical",
+      "editorial",
+      "calm"
+    ],
+    "signature": "An engraving-style drawing of a concrete modernist house on off-white paper, framed by blueprint hairlines with registration crosses, where small orange squares mark the issues the AI found.",
+    "palette": [
+      {
+        "hex": "#F2F2F1",
+        "role": "paper canvas"
+      },
+      {
+        "hex": "#FFFFFF",
+        "role": "cells"
+      },
+      {
+        "hex": "#282828",
+        "role": "ink at 100 and 72 percent"
+      },
+      {
+        "hex": "#B3B3AF",
+        "role": "blueprint rules"
+      },
+      {
+        "hex": "#FA3600",
+        "role": "issue markers"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "BT Grotesk",
+        "role": "display and body",
+        "weights": "600-700 uppercase display, 400-500 body",
+        "free_alternative": "Schibsted Grotesk 700 uppercase, or Archivo 700"
+      },
+      {
+        "family": "Geist Mono",
+        "role": "labels and nav",
+        "weights": "500 uppercase at 8-12px",
+        "free_alternative": "Geist Mono (Google Fonts)"
+      }
+    ],
+    "radius": "0px, square; round only for status dots",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP SplitText",
+      "GSAP Observer",
+      "GSAP TextPlugin",
+      "Barba",
+      "Lenis",
+      "Webflow",
+      "Swiper",
+      "CSS keyframes",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "hugging-face",
     "name": "Hugging Face",
     "url": "https://huggingface.co",
@@ -2317,6 +2655,72 @@
     ],
     "radius": "4px, buttons square-ish",
     "checked": "2026-11-16",
+    "visual_check": "true"
+  },
+  {
+    "slug": "justin-jefferson",
+    "name": "Justin Jefferson",
+    "url": "https://jjettas.com/",
+    "category": "editorial",
+    "theme": "dark",
+    "mood": [
+      "bold",
+      "loud",
+      "cinematic"
+    ],
+    "signature": "A grainy deep-purple page where an athlete's own words are set in a condensed sports-jersey face, centred and stacked in tan capitals between oversized quote marks.",
+    "palette": [
+      {
+        "hex": "#171220",
+        "role": "purple-black canvas"
+      },
+      {
+        "hex": "#F4EFE6",
+        "role": "cream text and light sections"
+      },
+      {
+        "hex": "#B0A89D",
+        "role": "tan display text"
+      },
+      {
+        "hex": "#9E6DE9",
+        "role": "purple accent"
+      },
+      {
+        "hex": "#EEAC1A",
+        "role": "gold accent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Beachwood",
+        "role": "display",
+        "weights": "variable 200-900, 700 uppercase for titles, 300 tracked for subtitles",
+        "free_alternative": "Anton, or Bebas Neue for tighter widths"
+      },
+      {
+        "family": "Custom sans (fontBody)",
+        "role": "body",
+        "weights": "400 and 800",
+        "free_alternative": "Inter 400 and 800"
+      },
+      {
+        "family": "Custom mono (fontMono)",
+        "role": "labels",
+        "weights": "500 uppercase, +0.16em",
+        "free_alternative": "JetBrains Mono 500"
+      }
+    ],
+    "radius": "pills on controls, 4px on cards",
+    "stack": [
+      "Next.js",
+      "Lenis",
+      "Canvas 2D",
+      "Autoplay video",
+      "CSS keyframes",
+      "CSS transitions"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -2696,6 +3100,69 @@
     ],
     "radius": "full pills on buttons, about 24px on cards",
     "checked": "2026-11-17",
+    "visual_check": "true"
+  },
+  {
+    "slug": "mecha",
+    "name": "Mecha Capital",
+    "url": "https://mecha-xyz.webflow.io/",
+    "category": "fintech",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "technical",
+      "calm"
+    ],
+    "signature": "A fixed left column with an outlined isometric letter and a numbered index of investments, beside a right column where a light serif manifesto at 60 to 80px gives way to staggered robotics footage.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#262933",
+        "role": "ink at 100"
+      },
+      {
+        "hex": "#EBF0F0",
+        "role": "cool panels"
+      },
+      {
+        "hex": "#EBEAE0",
+        "role": "warm panels"
+      },
+      {
+        "hex": "#911A46",
+        "role": "join action card"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Flecha M",
+        "role": "display",
+        "weights": "400",
+        "free_alternative": "Newsreader 400, or Instrument Serif"
+      },
+      {
+        "family": "Neue Haas Grotesk",
+        "role": "body and labels",
+        "weights": "400, 10px uppercase labels",
+        "free_alternative": "Inter 400"
+      }
+    ],
+    "radius": "0 to 1px, square",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP SplitText",
+      "GSAP CustomEase",
+      "GSAP DrawSVG",
+      "GSAP Observer",
+      "Lenis",
+      "Webflow",
+      "Autoplay video",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
     "visual_check": "true"
   },
   {
@@ -4235,6 +4702,52 @@
     "visual_check": "true"
   },
   {
+    "slug": "santal",
+    "name": "Santal",
+    "url": "https://santalarch.com/",
+    "category": "studio",
+    "theme": "mixed",
+    "mood": [
+      "minimal",
+      "serious",
+      "cinematic"
+    ],
+    "signature": "One Helvetica word at 98px set left of centre on a slowly lit 3D field of perforated metal, with its definition in a short paragraph to the right and a six-column nav whose items each hang from a thin tick.",
+    "palette": [
+      {
+        "hex": "#0F0F0F",
+        "role": "dark canvas"
+      },
+      {
+        "hex": "#F0F0F0",
+        "role": "light canvas and text on dark"
+      },
+      {
+        "hex": "#F2F0F0",
+        "role": "muted text at 40 percent"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Helvetica",
+        "role": "display and body",
+        "weights": "400-500 only",
+        "free_alternative": "Inter 400 with tighter tracking, or Arimo"
+      }
+    ],
+    "radius": "0px, square",
+    "stack": [
+      "Nuxt",
+      "Lenis",
+      "WebGL",
+      "Swiper",
+      "CSS transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "shopify",
     "name": "Shopify",
     "url": "https://www.shopify.com",
@@ -4285,6 +4798,65 @@
     "radius": "9999px pills, large rounded panels",
     "visual_check": "true",
     "checked": "2026-11-16"
+  },
+  {
+    "slug": "signal-a",
+    "name": "Signal-A Studio",
+    "url": "https://signal-a.studio/",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "editorial",
+      "bold",
+      "minimal"
+    ],
+    "signature": "A full-width justified statement in capitals where each line mixes an ultralight condensed serif with heavy grotesk words, so the paragraph reads as a typographic pattern.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "type and rules"
+      },
+      {
+        "hex": "#D9D9D9",
+        "role": "image placeholders and panels"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "PP Editorial New",
+        "role": "display serif",
+        "weights": "100 ultralight, uppercase",
+        "free_alternative": "Instrument Serif in capitals, or Playfair Display 400 condensed with letter-spacing"
+      },
+      {
+        "family": "Neue Haas Grotesk Text",
+        "role": "display sans and body",
+        "weights": "400-700 uppercase",
+        "free_alternative": "Inter Tight 700"
+      },
+      {
+        "family": "GT America Mono",
+        "role": "navigation and labels",
+        "weights": "300 uppercase",
+        "free_alternative": "IBM Plex Mono 300"
+      }
+    ],
+    "radius": "0 to 10px",
+    "stack": [
+      "GSAP 3 ScrollTrigger",
+      "GSAP Observer",
+      "Lenis",
+      "Webflow",
+      "Swiper",
+      "CSS keyframes",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
   },
   {
     "slug": "slush",
