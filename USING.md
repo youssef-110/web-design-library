@@ -48,7 +48,7 @@ Write four lines and keep to them:
 3. **Palette**: neutrals plus at most two colours, each with a job.
 4. **Type**: display face, body face, and the single typographic move that is not a default.
 
-Then check it against `PATTERNS.md`, section "Marks of a generated page". If your plan matches three or more, revise the plan, not the polish.
+Then check it against [`rules/anti-slop.md`](rules/anti-slop.md), the full catalogue (`PATTERNS.md`, section "Marks of a generated page", is the short version). If your plan matches three or more, revise the plan, not the polish.
 
 ## 6. Credit
 
