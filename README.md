@@ -6,8 +6,8 @@ The references supply taste. The rules supply the craft and the checks. An agent
 
 | | |
 |---|---|
-| **116 site references** | One file per site in 14 categories, each written from the live site and checked against a screenshot of it |
-| **25 measured in a browser** | Motion stack, easing, durations and scroll ranges probed in a headless browser, written up as rebuild notes |
+| **117 site references** | One file per site in 14 categories, each written from the live site and checked against a screenshot of it |
+| **26 measured in a browser** | Motion stack, easing, durations and scroll ranges probed in a headless browser, written up as rebuild notes |
 | **437 numbered rules** | Ten files: process, typography, colour, layout, components, motion, copy, accessibility, performance, anti-slop |
 | **41 scanner patterns** | A dependency-free scanner for the anti-slop rules a machine can check |
 | **A pre-ship checklist** | 18 checks on the rendered page and a report format that separates verified from not verified |

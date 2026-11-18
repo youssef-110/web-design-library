@@ -56,6 +56,77 @@
     "visual_check": "true"
   },
   {
+    "slug": "afternow",
+    "name": "Afternow",
+    "url": "https://afternow.co/",
+    "category": "studio",
+    "theme": "light",
+    "mood": [
+      "minimal",
+      "playful",
+      "technical"
+    ],
+    "signature": "A small rounded showreel video in the middle of a white page grows to full width as you scroll, while flat coloured copies of its shape trail behind it and catch up, like an echo.",
+    "palette": [
+      {
+        "hex": "#FFFFFF",
+        "role": "canvas"
+      },
+      {
+        "hex": "#000000",
+        "role": "text and primary pill button"
+      },
+      {
+        "hex": "#9C9E94",
+        "role": "secondary text"
+      },
+      {
+        "hex": "#F0F0EF",
+        "role": "tag chips and quote cards"
+      },
+      {
+        "hex": "#6E56FF",
+        "role": "echo layer"
+      },
+      {
+        "hex": "#FD8A65",
+        "role": "echo layer"
+      },
+      {
+        "hex": "#FFFF8C",
+        "role": "echo layer"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Messina Sans",
+        "role": "display and body",
+        "weights": "400-500",
+        "free_alternative": "Hanken Grotesk (Google Fonts)"
+      },
+      {
+        "family": "Messina Sans Mono",
+        "role": "navigation",
+        "weights": "400-500 uppercase",
+        "free_alternative": "IBM Plex Mono (Google Fonts)"
+      }
+    ],
+    "radius": "12px cards, 20-24px media, pills for buttons",
+    "stack": [
+      "WordPress",
+      "GSAP 3 ScrollTrigger",
+      "GSAP SplitText",
+      "Lenis",
+      "Autoplay video",
+      "Swiper",
+      "CSS keyframes",
+      "CSS transitions",
+      "Custom cursor"
+    ],
+    "checked": "2026-11-18",
+    "visual_check": "true"
+  },
+  {
     "slug": "agrumea-farm",
     "name": "Agrumea Farm",
     "url": "https://www.agrumeafarm.it/en",
